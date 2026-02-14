@@ -8,6 +8,9 @@ A web-based tool for browsing SQA Computing Science past paper questions, organi
 
 > To run locally: open a terminal in this folder and run `python3 -m http.server 8000`, then visit `http://localhost:8000/web/`
 
+> [!NOTE]
+> For the best performance, it is recommended to clone this repository and run it locally. GitHub Pages may experience slower loading times due to API rate limits or network latency with multiple data requests.
+
 ---
 
 ## 📁 Folder Structure

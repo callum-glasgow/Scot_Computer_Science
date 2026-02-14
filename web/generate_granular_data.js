@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const levels = ['N5', 'higher', 'AH'];
-const dataDir = path.join(__dirname, 'web', 'data');
+const dataDir = path.join(__dirname, 'data');
 
 // Helper to slugify section names for filenames
 function toSlug(str) {

@@ -1,0 +1,541 @@
+{
+  "schema_version": "1.0",
+  "paper_id": "S816/75/01",
+  "paper_name": "National Qualifications SPECIMEN ONLY Computing Science N5",
+  "file": "S816_75_01.pdf",
+  "course_spec_file": "National5ComputingScienceCourseSpecification.pdf",
+  "question_map": [
+    {
+      "question": "1",
+      "subquestions": [
+        {
+          "id": "1",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (data types and structures)",
+          "description": "State the most suitable data type for storing a true or false response in a program."
+        }
+      ]
+    },
+    {
+      "question": "2",
+      "subquestions": [
+        {
+          "id": "2",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Testing",
+          "description": "Identify syntax and logic errors within a provided snippet of program code."
+        }
+      ]
+    },
+    {
+      "question": "3",
+      "subquestions": [
+        {
+          "id": "3",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Computer systems",
+          "course_subsection": "Data representation",
+          "description": "Convert an 8-bit positive binary number into its denary equivalent."
+        }
+      ]
+    },
+    {
+      "question": "4",
+      "subquestions": [
+        {
+          "id": "4",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (computational constructs)",
+          "description": "Determine the output of a short program that uses an exponentiation arithmetic operator."
+        }
+      ]
+    },
+    {
+      "question": "5",
+      "subquestions": [
+        {
+          "id": "5",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Development methodologies",
+          "description": "Explain the iterative nature of the software development process."
+        }
+      ]
+    },
+    {
+      "question": "6",
+      "subquestions": [
+        {
+          "id": "6",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Computer systems",
+          "course_subsection": "Security precautions",
+          "description": "Explain the purpose of using encryption when transmitting data across wireless networks."
+        }
+      ]
+    },
+    {
+      "question": "7",
+      "subquestions": [
+        {
+          "id": "7(a)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Design",
+          "description": "Design an efficient solution using a design technique to implement input validation for specific values."
+        },
+        {
+          "id": "7(b)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Testing",
+          "description": "Provide a numerical example of exceptional test data for an input validation routine."
+        }
+      ]
+    },
+    {
+      "question": "8",
+      "subquestions": [
+        {
+          "id": "8",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Computer systems",
+          "course_subsection": "Environmental impact",
+          "description": "Describe a method used to reduce the environmental impact of computing systems."
+        }
+      ]
+    },
+    {
+      "question": "9",
+      "subquestions": [
+        {
+          "id": "9(a)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Computer systems",
+          "course_subsection": "Data representation",
+          "description": "Identify a standard vector graphics object used to represent an element in a drawing."
+        },
+        {
+          "id": "9(b)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Computer systems",
+          "course_subsection": "Data representation",
+          "description": "Identify an attribute of a line object used within a vector graphics package."
+        }
+      ]
+    },
+    {
+      "question": "10",
+      "subquestions": [
+        {
+          "id": "10(a)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Design",
+          "description": "Design a user interface for a survey application that facilitates quick data entry on a touchscreen."
+        },
+        {
+          "id": "10(b)(i)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (data types and structures)",
+          "description": "Identify a specific value from a provided program design that would be stored as an integer data type."
+        },
+        {
+          "id": "10(b)(ii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (computational constructs)",
+          "description": "Identify the loop condition used within a graphical program design."
+        },
+        {
+          "id": "10(b)(iii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Evaluation",
+          "description": "Identify an inefficient component of a program design that does not affect the correctness of the final solution."
+        },
+        {
+          "id": "10(c)(i)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Testing",
+          "description": "Perform a dry run of a program design using provided test data to state the expected output."
+        },
+        {
+          "id": "10(c)(ii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Design",
+          "description": "Describe the necessary edits to a program design to correct a logical error in a calculation."
+        }
+      ]
+    },
+    {
+      "question": "11",
+      "subquestions": [
+        {
+          "id": "11(a)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Analysis",
+          "description": "Identify the functional processes required for a program based on a textual description of its behavior."
+        },
+        {
+          "id": "11(b)(i)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (data types and structures)",
+          "description": "State the appropriate data structure and data type required to store a collection of words."
+        },
+        {
+          "id": "11(b)(ii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Computer systems",
+          "course_subsection": "Computer structure",
+          "description": "Identify the hardware component where program data is stored during execution."
+        },
+        {
+          "id": "11(b)(iii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Computer systems",
+          "course_subsection": "Computer structure",
+          "description": "State the component of the processor responsible for performing logical comparisons."
+        },
+        {
+          "id": "11(c)(i)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (computational constructs)",
+          "description": "Identify a logical operator used within a provided snippet of program code."
+        },
+        {
+          "id": "11(c)(ii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (computational constructs)",
+          "description": "Write a line of code using a predefined function to generate random values within a specific range."
+        },
+        {
+          "id": "11(c)(iii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Testing",
+          "description": "Explain why a program using random selection might fail to process every item in a list."
+        },
+        {
+          "id": "11(d)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Computer systems",
+          "course_subsection": "Data representation",
+          "description": "Calculate the total number of bits required to store a specific string using extended ASCII."
+        }
+      ]
+    },
+    {
+      "question": "12",
+      "subquestions": [
+        {
+          "id": "12(a)(i)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (computational constructs)",
+          "description": "State the specific type of loop required to implement a provided program design."
+        },
+        {
+          "id": "12(a)(ii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (algorithm specification)",
+          "description": "Identify the standard algorithm being used within a hierarchical program design."
+        },
+        {
+          "id": "12(a)(iii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (computational constructs)",
+          "description": "Match examples from a program design to their corresponding programming constructs."
+        },
+        {
+          "id": "12(b)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (data types and structures)",
+          "description": "State an appropriate data type for a variable storing a count of items and justify the choice."
+        },
+        {
+          "id": "12(c)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Evaluation",
+          "description": "Rewrite a conditional code block more efficiently using appropriate selection constructs."
+        },
+        {
+          "id": "12(d)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Computer systems",
+          "course_subsection": "Data representation",
+          "description": "Describe how a bit-mapped graphic is represented in computer memory."
+        }
+      ]
+    },
+    {
+      "question": "13",
+      "subquestions": [
+        {
+          "id": "13(a)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (computational constructs)",
+          "description": "Explain how a program uses selection and output to inform a user when a specific condition is met."
+        },
+        {
+          "id": "13(b)(i)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Analysis",
+          "description": "Identify a boundary value based on conditional requirements in a program code snippet."
+        },
+        {
+          "id": "13(b)(ii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (algorithm specification)",
+          "description": "Explain the necessity of resetting a counter variable within a loop that processes multiple sets of data."
+        },
+        {
+          "id": "13(c)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (computational constructs)",
+          "description": "Describe how to edit program code to include a complex conditional statement involving multiple variables."
+        }
+      ]
+    },
+    {
+      "question": "14",
+      "subquestions": [
+        {
+          "id": "14(a)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Implementation",
+          "description": "Describe the results produced by a SQL query that includes multiple search criteria and a sort order."
+        },
+        {
+          "id": "14(b)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Implementation",
+          "description": "State the specific SQL operation required to modify existing data within a database record."
+        }
+      ]
+    },
+    {
+      "question": "15",
+      "subquestions": [
+        {
+          "id": "15",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Design",
+          "description": "Identify standard items of information contained within a database data dictionary."
+        }
+      ]
+    },
+    {
+      "question": "16",
+      "subquestions": [
+        {
+          "id": "16(a)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Analysis",
+          "description": "State the functional requirements for a database system based on a detailed problem scenario."
+        },
+        {
+          "id": "16(b)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Design",
+          "description": "Complete an entity-relationship diagram by identifying entities, attributes, and relationships."
+        },
+        {
+          "id": "16(c)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Design",
+          "description": "Identify a database attribute from a scenario that would be appropriately stored as a Boolean field."
+        },
+        {
+          "id": "16(d)(i)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Design",
+          "description": "Describe how to implement validation for a field with a set of predefined valid values during table creation."
+        },
+        {
+          "id": "16(d)(ii)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Design",
+          "description": "Identify a database field from a scenario where range validation would be an appropriate constraint."
+        }
+      ]
+    },
+    {
+      "question": "17",
+      "subquestions": [
+        {
+          "id": "17(a)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Design",
+          "description": "Design a complex database query by specifying the required fields, tables, and search criteria."
+        },
+        {
+          "id": "17(b)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Implementation",
+          "description": "Write a full SQL SELECT statement to produce a specific set of output data in a defined order."
+        },
+        {
+          "id": "17(c)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Testing",
+          "description": "Explain why a specific SQL statement fails to meet the functional requirements of a database query."
+        }
+      ]
+    },
+    {
+      "question": "18",
+      "subquestions": [
+        {
+          "id": "18(a)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Design",
+          "description": "State a benefit of creating a low-fidelity prototype during the web design phase."
+        },
+        {
+          "id": "18(b)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Testing",
+          "description": "Describe the benefit of maintaining consistency across a website's user interface for the end-user."
+        }
+      ]
+    },
+    {
+      "question": "19",
+      "subquestions": [
+        {
+          "id": "19",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Design",
+          "description": "Complete a website structure diagram to include new internal pages and external links."
+        }
+      ]
+    },
+    {
+      "question": "20",
+      "subquestions": [
+        {
+          "id": "20(a)(i)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Design",
+          "description": "Select and justify a suitable graphic file format for displaying a photograph on a web page."
+        },
+        {
+          "id": "20(a)(ii)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Design",
+          "description": "Explain the application of copyright legislation to original media content created by organization staff."
+        },
+        {
+          "id": "20(b)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (HTML)",
+          "description": "Sketch how a specific snippet of HTML code containing a hyperlink will be rendered in a browser."
+        },
+        {
+          "id": "20(c)(i)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Testing",
+          "description": "Identify a potential technical reason for a 'Page Not Found' error occurring during website testing."
+        },
+        {
+          "id": "20(c)(ii)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Testing",
+          "description": "Describe different types of functional or visual tests that should be performed on a website."
+        }
+      ]
+    },
+    {
+      "question": "21",
+      "subquestions": [
+        {
+          "id": "21(a)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Design",
+          "description": "Translate HTML and CSS code into a visual wireframe representation of a home page."
+        },
+        {
+          "id": "21(b)(i)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (CSS)",
+          "description": "Write a CSS rule using a class selector to define text alignment and font size for specific elements."
+        },
+        {
+          "id": "21(b)(ii)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (HTML)",
+          "description": "Identify the specific type of addressing used within a provided HTML hyperlink."
+        },
+        {
+          "id": "21(c)(i)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (JavaScript)",
+          "description": "State the scripting language used to implement interactive mouse-driven features on a web page."
+        },
+        {
+          "id": "21(c)(ii)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (JavaScript)",
+          "description": "Identify the specific type of JavaScript mouse event used to trigger a change in web page content."
+        },
+        {
+          "id": "21(d)(i)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Design",
+          "description": "State a benefit to the end-user of using compressed file formats for media content on a website."
+        },
+        {
+          "id": "21(d)(ii)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Design",
+          "description": "Compare the advantages and disadvantages of using different sampling rates for audio files."
+        }
+      ]
+    }
+  ]
+}

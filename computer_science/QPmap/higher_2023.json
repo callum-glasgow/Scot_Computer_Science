@@ -1,0 +1,461 @@
+{
+  "schema_version": "1.0",
+  "paper_id": "X816/76/01",
+  "paper_name": "National Qualifications 2023 MODIFIED Computing Science",
+  "file": "X8167601.pdf",
+  "course_spec_file": "HigherComputingScienceCourseSpec.pdf",
+  "question_map": [
+    {
+      "question": "1",
+      "subquestions": [
+        {
+          "id": "1",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Computer systems",
+          "course_subsection": "Data representation",
+          "description": "Convert an 8-bit two’s complement binary number into its denary equivalent."
+        }
+      ]
+    },
+    {
+      "question": "2",
+      "subquestions": [
+        {
+          "id": "2",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Development methodologies",
+          "description": "Describe the advantages of agile methodology compared to iterative development processes."
+        }
+      ]
+    },
+    {
+      "question": "3",
+      "subquestions": [
+        {
+          "id": "3(a)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Computer systems",
+          "course_subsection": "Data representation",
+          "description": "Convert a binary number into floating-point representation using sign, mantissa, and exponent."
+        },
+        {
+          "id": "3(b)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Computer systems",
+          "course_subsection": "Data representation",
+          "description": "State the effect of increasing the number of bits allocated to the mantissa in floating-point representation."
+        }
+      ]
+    },
+    {
+      "question": "4",
+      "subquestions": [
+        {
+          "id": "4",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Computer systems",
+          "course_subsection": "Security risks and precautions",
+          "description": "State the purpose of a public key in the secure transmission of encrypted data."
+        }
+      ]
+    },
+    {
+      "question": "5",
+      "subquestions": [
+        {
+          "id": "5(a)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Computer systems",
+          "course_subsection": "Computer structure",
+          "description": "Complete the steps involved in the fetch-execute cycle."
+        },
+        {
+          "id": "5(b)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Computer systems",
+          "course_subsection": "Computer structure",
+          "description": "Explain how specific hardware factors can improve the performance of the fetch-execute cycle."
+        }
+      ]
+    },
+    {
+      "question": "6",
+      "subquestions": [
+        {
+          "id": "6",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Computer systems",
+          "course_subsection": "Security risks and precautions",
+          "description": "Identify ways in which the Computer Misuse Act is breached during unauthorized access and manipulation of data."
+        }
+      ]
+    },
+    {
+      "question": "7",
+      "subquestions": [
+        {
+          "id": "7(a)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (computational constructs)",
+          "description": "Complete a complex conditional loop structure to control the execution of a sub-program."
+        },
+        {
+          "id": "7(b)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (computational constructs)",
+          "description": "Implement code to perform a sub-program call that returns a value."
+        }
+      ]
+    },
+    {
+      "question": "8",
+      "subquestions": [
+        {
+          "id": "8(a)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Testing",
+          "description": "Complete a trace table to verify the execution of a loop containing conditional statements."
+        },
+        {
+          "id": "8(b)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Testing",
+          "description": "Explain a logic error within a program's selection constructs."
+        }
+      ]
+    },
+    {
+      "question": "9",
+      "subquestions": [
+        {
+          "id": "9(a)(i)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (computational constructs)",
+          "description": "Predict the output of a program based on complex conditional logic and test data."
+        },
+        {
+          "id": "9(a)(ii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (computational constructs)",
+          "description": "Correct a logic error in a complex conditional statement."
+        },
+        {
+          "id": "9(b)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (computational constructs)",
+          "description": "Identify formal and actual parameters within a modular program structure."
+        },
+        {
+          "id": "9(c)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (computational constructs)",
+          "description": "Describe the execution flow and parameter passing during a sub-program call."
+        },
+        {
+          "id": "9(d)(i)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (computational constructs)",
+          "description": "Identify local variables within a procedural programming structure."
+        },
+        {
+          "id": "9(d)(ii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (computational constructs)",
+          "description": "Describe the scope of a local variable within a program."
+        },
+        {
+          "id": "9(d)(iii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Evaluation",
+          "description": "Explain how the use of local variables enhances the maintainability of a software solution."
+        },
+        {
+          "id": "9(e)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (algorithm specification)",
+          "description": "Implement code for a standard algorithm that counts occurrences matching specific criteria in parallel arrays."
+        }
+      ]
+    },
+    {
+      "question": "10",
+      "subquestions": [
+        {
+          "id": "10(a)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Testing",
+          "description": "Identify boundary test data for a software component."
+        },
+        {
+          "id": "10(b)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Design",
+          "description": "Design an algorithm using a recognized technique to process data and store it in an external file."
+        },
+        {
+          "id": "10(c)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Evaluation",
+          "description": "Describe the benefits of modularity in software implementation."
+        }
+      ]
+    },
+    {
+      "question": "11",
+      "subquestions": [
+        {
+          "id": "11(a)(i)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (data types and structures)",
+          "description": "Define a record data structure for storing multiple related attributes."
+        },
+        {
+          "id": "11(a)(ii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (data types and structures)",
+          "description": "Declare an array of records to store a collection of data objects."
+        },
+        {
+          "id": "11(b)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Design",
+          "description": "Identify data flow between sub-programs in an algorithm design."
+        },
+        {
+          "id": "11(c)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (algorithm specification)",
+          "description": "Implement a standard algorithm to find the minimum value in an array of records matching certain criteria."
+        }
+      ]
+    },
+    {
+      "question": "12",
+      "subquestions": [
+        {
+          "id": "12",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Design",
+          "description": "Create an entity-relationship diagram including entity names and cardinality."
+        }
+      ]
+    },
+    {
+      "question": "13",
+      "subquestions": [
+        {
+          "id": "13",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Implementation",
+          "description": "Predict the output of a SQL SELECT statement involving criteria, aggregate functions, and grouping."
+        }
+      ]
+    },
+    {
+      "question": "14",
+      "subquestions": [
+        {
+          "id": "14(a)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Design",
+          "description": "Design a database query to perform a count calculation based on specific search criteria."
+        },
+        {
+          "id": "14(b)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Design",
+          "description": "Design a multi-table database query including fields, tables, and search criteria."
+        },
+        {
+          "id": "14(c)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Implementation",
+          "description": "Write a SQL statement to update existing records with calculated values."
+        },
+        {
+          "id": "14(d)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Testing",
+          "description": "Identify errors in a SQL SELECT statement involving arithmetic operations and sorting."
+        }
+      ]
+    },
+    {
+      "question": "15",
+      "subquestions": [
+        {
+          "id": "15(a)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Design",
+          "description": "Design a query involving calculated fields and sorting based on requirements."
+        },
+        {
+          "id": "15(b)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Implementation",
+          "description": "Write a SQL statement using aggregate functions and grouping across multiple tables."
+        },
+        {
+          "id": "15(c)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Implementation",
+          "description": "Implement a SQL statement that utilizes the result of a previous query."
+        },
+        {
+          "id": "15(d)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Evaluation",
+          "description": "Evaluate why a database structure is not fit for purpose during a data insertion attempt."
+        }
+      ]
+    },
+    {
+      "question": "16",
+      "subquestions": [
+        {
+          "id": "16",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Evaluation",
+          "description": "Identify reasons why combined JavaScript, CSS, and HTML code is not fit for purpose."
+        }
+      ]
+    },
+    {
+      "question": "17",
+      "subquestions": [
+        {
+          "id": "17(a)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Analysis",
+          "description": "State a functional requirement for a web application based on a project brief."
+        },
+        {
+          "id": "17(b)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Design",
+          "description": "Draw the navigational structure for a multi-level website."
+        }
+      ]
+    },
+    {
+      "question": "18",
+      "subquestions": [
+        {
+          "id": "18(a)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (CSS)",
+          "description": "Write a CSS rule using grouped selectors to apply consistent margins."
+        },
+        {
+          "id": "18(b)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (CSS)",
+          "description": "Complete a CSS rule to control the layout and positioning of media elements."
+        },
+        {
+          "id": "18(c)(i)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (CSS)",
+          "description": "Write a CSS rule to initially hide a specific HTML element."
+        },
+        {
+          "id": "18(c)(ii)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (JavaScript)",
+          "description": "Complete JavaScript code to dynamically modify the display property of a page element."
+        },
+        {
+          "id": "18(c)(iii)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (HTML)",
+          "description": "Write HTML code to trigger a JavaScript function using a mouse event."
+        },
+        {
+          "id": "18(d)(i)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (HTML)",
+          "description": "Write HTML code to implement a text input form element."
+        },
+        {
+          "id": "18(d)(ii)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (HTML)",
+          "description": "Write HTML code to implement a textarea form element for extended user input."
+        }
+      ]
+    },
+    {
+      "question": "19",
+      "subquestions": [
+        {
+          "id": "19(a)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Design",
+          "description": "Create a wireframe design for a web page based on user requirements."
+        },
+        {
+          "id": "19(b)(i)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Testing",
+          "description": "Explain logic errors that prevent a navigation bar from displaying as intended."
+        },
+        {
+          "id": "19(b)(ii)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (CSS)",
+          "description": "Explain the difference between CSS rules using descendant selectors versus general selectors."
+        },
+        {
+          "id": "19(c)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Testing",
+          "description": "Describe factors in compatibility testing that cause different user experiences across platforms."
+        }
+      ]
+    }
+  ]
+}

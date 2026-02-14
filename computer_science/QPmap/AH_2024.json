@@ -1,0 +1,379 @@
+{
+  "schema_version": "1.0",
+  "paper_id": "X816/77/11",
+  "paper_name": "Computing Science",
+  "file": "X816_77_11_2024_QP.pdf",
+  "course_spec_file": "AH_ComputingScience_CourseSpec.pdf",
+  "question_map": [
+    {
+      "question": "1",
+      "subquestions": [
+        {
+          "id": "1",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation",
+          "description": "State the data item comparisons performed during a binary search to locate a target in a sorted list."
+        }
+      ]
+    },
+    {
+      "question": "2",
+      "subquestions": [
+        {
+          "id": "2(a)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation",
+          "description": "Identify the memory address stored in the head pointer of a sorted single linked list."
+        },
+        {
+          "id": "2(b)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation",
+          "description": "Determine the correct pointer values for nodes in a single linked list to maintain alphabetical order."
+        }
+      ]
+    },
+    {
+      "question": "3",
+      "subquestions": [
+        {
+          "id": "3(a)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation",
+          "description": "Define a two-dimensional array structure using a specific programming language to store grid data."
+        },
+        {
+          "id": "3(b)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation",
+          "description": "Write code to assign a value to a specific element within a two-dimensional array structure."
+        }
+      ]
+    },
+    {
+      "question": "4",
+      "subquestions": [
+        {
+          "id": "4(a)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Testing",
+          "description": "Explain how a user description is used to conduct usability testing and obtain feedback on ease of use."
+        },
+        {
+          "id": "4(b)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Evaluation",
+          "description": "Identify and justify the specific type of maintenance required to integrate new functionality into an existing system."
+        }
+      ]
+    },
+    {
+      "question": "5",
+      "subquestions": [
+        {
+          "id": "5(a)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation",
+          "description": "Explain the application and purpose of method overriding within an object-oriented class hierarchy."
+        },
+        {
+          "id": "5(b)(i)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation",
+          "description": "Describe the effect of an object instantiation statement using appropriate object-oriented terminology."
+        },
+        {
+          "id": "5(b)(ii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation",
+          "description": "State the output produced by tracing code involving object-oriented method calls and attribute updates."
+        },
+        {
+          "id": "5(c)(i)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation",
+          "description": "Describe the functional effect of calling a setter method on a specific object indexed within an array of objects."
+        },
+        {
+          "id": "5(c)(ii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation",
+          "description": "Explain the cause of a code error related to calling methods not present in a superclass or specific subclass."
+        },
+        {
+          "id": "5(d)(i)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation",
+          "description": "Implement the while-loop structure for a bubble sort algorithm in a chosen programming language."
+        },
+        {
+          "id": "5(d)(ii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation",
+          "description": "Implement the conditional comparison logic for adjacent array elements in a bubble sort algorithm."
+        },
+        {
+          "id": "5(d)(iii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation",
+          "description": "Write code to perform a swap operation between two elements in an array within a sort routine."
+        }
+      ]
+    },
+    {
+      "question": "6",
+      "subquestions": [
+        {
+          "id": "6(a)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation",
+          "description": "Refine a top-level design using pseudocode to show the steps for reading database records into an array of records."
+        },
+        {
+          "id": "6(b)(i)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation",
+          "description": "Write the pseudocode logic to complete an insertion sort algorithm to arrange data in descending order."
+        },
+        {
+          "id": "6(b)(ii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation",
+          "description": "Develop a pseudocode refinement to move rows of data within an array to accommodate new records."
+        },
+        {
+          "id": "6(b)(iii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation",
+          "description": "Write a pseudocode algorithm to identify and display records meeting a specific percentage reduction threshold."
+        }
+      ]
+    },
+    {
+      "question": "7",
+      "subquestions": [
+        {
+          "id": "7(a)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Design",
+          "description": "Distinguish between strong and weak entities within a provided database schema."
+        },
+        {
+          "id": "7(b)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Design",
+          "description": "Describe the relationship participation between two entities in an entity-occurrence diagram."
+        },
+        {
+          "id": "7(c)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Implementation",
+          "description": "Write a SQL CHECK constraint clause as part of a CREATE statement to restrict field values to a set list."
+        }
+      ]
+    },
+    {
+      "question": "8",
+      "subquestions": [
+        {
+          "id": "8(a)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Analysis",
+          "description": "Identify the type of feasibility study concerned with investigating required hardware and software."
+        },
+        {
+          "id": "8(b)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Analysis",
+          "description": "Construct a UML use case diagram showing actors and processes for a database-driven system."
+        },
+        {
+          "id": "8(c)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Design",
+          "description": "Describe two specific benefits of implementing a surrogate key in a relational database entity."
+        },
+        {
+          "id": "8(d)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Implementation",
+          "description": "Complete a SQL UPDATE query by adding logical clauses to validate specific record conditions."
+        },
+        {
+          "id": "8(e)(i)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Design",
+          "description": "Evaluate a database query design to identify logical problems and suggest resolutions."
+        },
+        {
+          "id": "8(e)(ii)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Implementation",
+          "description": "Write a SQL clause using an appropriate logical operator to specify a date range in a query."
+        },
+        {
+          "id": "8(f)(i)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Implementation",
+          "description": "Determine the output produced by a SQL subquery based on provided sample data."
+        },
+        {
+          "id": "8(f)(ii)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Implementation",
+          "description": "Determine the final output of a SQL query using the ANY operator and a subquery results set."
+        },
+        {
+          "id": "8(g)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Database design and development",
+          "course_subsection": "Implementation",
+          "description": "Write a HTML form tag including action and method attributes to transmit data securely to a specific PHP page."
+        }
+      ]
+    },
+    {
+      "question": "9",
+      "subquestions": [
+        {
+          "id": "9",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation",
+          "description": "Explain the specific purpose of a CSS media query in creating responsive web layouts."
+        }
+      ]
+    },
+    {
+      "question": "10",
+      "subquestions": [
+        {
+          "id": "10(a)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation",
+          "description": "Write HTML table tags to correctly display the header row of a data table."
+        },
+        {
+          "id": "10(b)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation",
+          "description": "Write HTML table tags to correctly display a data row within a table structure."
+        }
+      ]
+    },
+    {
+      "question": "11",
+      "subquestions": [
+        {
+          "id": "11(a)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Analysis",
+          "description": "Identify the type of feasibility study being conducted for a proposed mountains website."
+        },
+        {
+          "id": "11(b)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Analysis",
+          "description": "Draw a UML use case diagram representing actors and functional requirements for a mountain-climbing website."
+        },
+        {
+          "id": "11(c)(i)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Design",
+          "description": "Complete a design refinement using pseudocode to check if submitted form data matches existing records."
+        },
+        {
+          "id": "11(c)(ii)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation",
+          "description": "Write server-side PHP code to assign submitted form data to individual variables."
+        },
+        {
+          "id": "11(c)(iii)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation",
+          "description": "Write a SQL query to insert new user details into a database table using provided data."
+        },
+        {
+          "id": "11(d)(i)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation",
+          "description": "Explain the technical necessity of using session variables within a multi-page web application."
+        },
+        {
+          "id": "11(d)(ii)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation",
+          "description": "Describe how a session variable is used to filter and display database results unique to a logged-in user."
+        },
+        {
+          "id": "11(e)(i)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation",
+          "description": "Identify the database connection username from provided PHP mysqli_connect code."
+        },
+        {
+          "id": "11(e)(ii)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation",
+          "description": "Explain common PHP database errors and describe how to resolve them to ensure correct query execution."
+        },
+        {
+          "id": "11(f)(i)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Design",
+          "description": "Describe the intended functional purpose of a server-side process design involving loops and queries."
+        },
+        {
+          "id": "11(f)(ii)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 20 marks",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation",
+          "description": "Identify and explain a potential logic or performance problem within a provided server-side design."
+        }
+      ]
+    }
+  ]
+}

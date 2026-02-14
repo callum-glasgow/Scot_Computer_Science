@@ -1,0 +1,503 @@
+{
+  "schema_version": "1.0",
+  "paper_id": "X816/75/01",
+  "paper_name": "N5 Computing Science 2022 MODIFIED",
+  "file": "X8167501.pdf",
+  "course_spec_file": "National5ComputingScienceCourseSpec.pdf",
+  "question_map": [
+    {
+      "question": "1",
+      "subquestions": [
+        {
+          "id": "1",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Computer systems",
+          "course_subsection": "Data representation",
+          "description": "Convert a decimal integer into an 8-bit binary representation."
+        }
+      ]
+    },
+    {
+      "question": "2",
+      "subquestions": [
+        {
+          "id": "2",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (computational constructs)",
+          "description": "Implement program output using string concatenation in a high-level programming language."
+        }
+      ]
+    },
+    {
+      "question": "3",
+      "subquestions": [
+        {
+          "id": "3",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (data types and structures)",
+          "description": "Identify appropriate variable types for provided sample data items."
+        }
+      ]
+    },
+    {
+      "question": "4",
+      "subquestions": [
+        {
+          "id": "4(a)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Design",
+          "description": "Identify the type of loop represented in a provided flowchart design."
+        },
+        {
+          "id": "4(b)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Design",
+          "description": "Show the design for an arithmetic calculation using a design technique of choice."
+        }
+      ]
+    },
+    {
+      "question": "5",
+      "subquestions": [
+        {
+          "id": "5",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Computer systems",
+          "course_subsection": "Data representation",
+          "description": "Identify the mantissa and exponent from a value in floating-point representation."
+        }
+      ]
+    },
+    {
+      "question": "6",
+      "subquestions": [
+        {
+          "id": "6(a)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Testing",
+          "description": "Determine the required test input to trigger a specific execution path in a conditional construct."
+        },
+        {
+          "id": "6(b)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (computational constructs)",
+          "description": "Identify a logical operator used within provided programming code."
+        }
+      ]
+    },
+    {
+      "question": "7",
+      "subquestions": [
+        {
+          "id": "7",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Computer systems",
+          "course_subsection": "Data representation",
+          "description": "Identify a graphical object and a modifiable attribute within a vector graphics design."
+        }
+      ]
+    },
+    {
+      "question": "8",
+      "subquestions": [
+        {
+          "id": "8(a)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Analysis",
+          "description": "Describe program processes based on a software requirement brief."
+        },
+        {
+          "id": "8(b)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Design",
+          "description": "Refine a design step using a technique of choice to include complex selection or repetition."
+        },
+        {
+          "id": "8(c)(i)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (data types and structures)",
+          "description": "Identify the most suitable data structure and data type to store a set of Boolean values."
+        },
+        {
+          "id": "8(c)(ii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (computational constructs)",
+          "description": "Implement a provided pseudocode design using a conditional loop in a high-level language."
+        },
+        {
+          "id": "8(c)(iii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Evaluation",
+          "description": "Explain the performance efficiency of a program design based on data volume."
+        },
+        {
+          "id": "8(d)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Computer systems",
+          "course_subsection": "Security precautions",
+          "description": "Identify a method for transferring information securely over a network."
+        }
+      ]
+    },
+    {
+      "question": "9",
+      "subquestions": [
+        {
+          "id": "9(a)(i)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Design",
+          "description": "State an alternative design technique used to represent a program's logic."
+        },
+        {
+          "id": "9(a)(ii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Development methodologies",
+          "description": "Explain the iterative nature of the software development process regarding the design stage."
+        },
+        {
+          "id": "9(b)(i)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (algorithm specification)",
+          "description": "Design an efficient solution to perform input validation within a range."
+        },
+        {
+          "id": "9(b)(ii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Testing",
+          "description": "Complete a test table using appropriate extreme and exceptional test data."
+        },
+        {
+          "id": "9(c)(i)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Evaluation",
+          "description": "Explain how indentation improves the readability of programming code."
+        },
+        {
+          "id": "9(c)(ii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Evaluation",
+          "description": "Describe how to improve the readability of a complex selection statement."
+        },
+        {
+          "id": "9(c)(iii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Computer systems",
+          "course_subsection": "Data representation",
+          "description": "Calculate the storage requirements for a string using extended ASCII code."
+        },
+        {
+          "id": "9(c)(iv)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Testing",
+          "description": "Identify the type of error caused by using an incorrect logical operator."
+        },
+        {
+          "id": "9(d)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Computer systems",
+          "course_subsection": "Computer structure",
+          "description": "Identify the type of translator used to run an executable program without further software."
+        }
+      ]
+    },
+    {
+      "question": "10",
+      "subquestions": [
+        {
+          "id": "10(a)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Design",
+          "description": "Design a user interface for a program based on functional requirements."
+        },
+        {
+          "id": "10(b)(i)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Computer systems",
+          "course_subsection": "Computer structure",
+          "description": "Identify the processor component responsible for performing calculations."
+        },
+        {
+          "id": "10(b)(ii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Computer systems",
+          "course_subsection": "Computer structure",
+          "description": "Identify the processor component used for temporary data storage."
+        },
+        {
+          "id": "10(c)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Software design and development",
+          "course_subsection": "Implementation (data types and structures)",
+          "description": "Implement efficient constructs such as arrays and loops to replace inefficient sequential code."
+        },
+        {
+          "id": "10(d)(i)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Computer systems",
+          "course_subsection": "Data representation",
+          "description": "Describe how image data is stored in a bit-mapped graphic format."
+        },
+        {
+          "id": "10(d)(ii)",
+          "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+          "course_section": "Computer systems",
+          "course_subsection": "Environmental impact",
+          "description": "Describe a method to reduce the energy consumption of a portable computing device."
+        }
+      ]
+    },
+    {
+      "question": "11",
+      "subquestions": [
+        {
+          "id": "11",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Design",
+          "description": "Identify the appropriate data type for a specific field in a data dictionary."
+        }
+      ]
+    },
+    {
+      "question": "12",
+      "subquestions": [
+        {
+          "id": "12(a)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Implementation",
+          "description": "Determine the expected output from a provided SQL SELECT statement."
+        },
+        {
+          "id": "12(b)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Testing",
+          "description": "Describe how to test the accuracy of a database query result."
+        }
+      ]
+    },
+    {
+      "question": "13",
+      "subquestions": [
+        {
+          "id": "13(a)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Design",
+          "description": "Complete an entity-relationship diagram to show the relationship between two entities."
+        },
+        {
+          "id": "13(b)(i)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Design",
+          "description": "Design a complex database query by specifying fields, tables, and search criteria."
+        },
+        {
+          "id": "13(b)(ii)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Implementation",
+          "description": "Complete an SQL statement including WHERE and ORDER BY clauses for a specified output."
+        }
+      ]
+    },
+    {
+      "question": "14",
+      "subquestions": [
+        {
+          "id": "14(a)(i)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Design",
+          "description": "Identify primary key attributes within an entity-relationship diagram."
+        },
+        {
+          "id": "14(a)(ii)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Design",
+          "description": "Identify a database attribute that would be implemented with restricted choice validation."
+        },
+        {
+          "id": "14(b)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Design",
+          "description": "Explain the applicability of General Data Protection Regulations to specific database content."
+        },
+        {
+          "id": "14(c)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Implementation",
+          "description": "Implement a record insertion into a database table using the SQL INSERT INTO statement."
+        },
+        {
+          "id": "14(d)",
+          "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+          "course_section": "Database design and development",
+          "course_subsection": "Implementation",
+          "description": "Implement an efficient record deletion using an SQL DELETE statement with complex criteria."
+        }
+      ]
+    },
+    {
+      "question": "15",
+      "subquestions": [
+        {
+          "id": "15",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (CSS)",
+          "description": "Identify a CSS property and a class selector from provided external stylesheet code."
+        }
+      ]
+    },
+    {
+      "question": "16",
+      "subquestions": [
+        {
+          "id": "16",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (HTML)",
+          "description": "Identify the type of hyperlink used to link to an external domain."
+        }
+      ]
+    },
+    {
+      "question": "17",
+      "subquestions": [
+        {
+          "id": "17",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Testing",
+          "description": "Evaluate if a wireframe design meets the stated functional requirements for a website."
+        }
+      ]
+    },
+    {
+      "question": "18",
+      "subquestions": [
+        {
+          "id": "18(a)(i)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Design",
+          "description": "Identify a low-fidelity prototyping design technique for user interface planning."
+        },
+        {
+          "id": "18(a)(ii)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Design",
+          "description": "Explain the purpose of using low-fidelity prototypes during the design stage."
+        },
+        {
+          "id": "18(b)(i)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (CSS)",
+          "description": "Determine the visual formatting of an HTML element based on applied CSS rules."
+        },
+        {
+          "id": "18(b)(ii)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (CSS)",
+          "description": "Implement a single CSS style rule to format text alignment and font family."
+        },
+        {
+          "id": "18(c)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (HTML)",
+          "description": "Implement an HTML image tag using a relative file path based on a folder structure."
+        },
+        {
+          "id": "18(d)(i)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Design",
+          "description": "Identify a suitable bit-mapped file format based on colour depth and transparency requirements."
+        },
+        {
+          "id": "18(d)(ii)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Design",
+          "description": "Identify a factor other than colour depth that affects the file size of an image."
+        }
+      ]
+    },
+    {
+      "question": "19",
+      "subquestions": [
+        {
+          "id": "19(a)(i)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (HTML)",
+          "description": "Draw the browser representation of a web page based on provided HTML and CSS code."
+        },
+        {
+          "id": "19(a)(ii)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (HTML)",
+          "description": "Implement an HTML list item that utilizes a specific CSS class selector."
+        },
+        {
+          "id": "19(b)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (HTML)",
+          "description": "Identify the purpose of an HTML anchor tag and its href attribute."
+        },
+        {
+          "id": "19(c)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Implementation (JavaScript)",
+          "description": "Identify the scripting language used to implement mouse events like onmouseover."
+        },
+        {
+          "id": "19(d)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Design",
+          "description": "Identify the relevant law governing the use of digital assets like videos on a website."
+        },
+        {
+          "id": "19(e)",
+          "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+          "course_section": "Web design and development",
+          "course_subsection": "Analysis",
+          "description": "Identify end-user requirements based on qualitative customer feedback."
+        }
+      ]
+    }
+  ]
+}

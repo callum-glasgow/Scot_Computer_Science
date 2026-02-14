@@ -20,7 +20,9 @@
     selectedSection: null,
     selectedSubsection: null,
     expandedYears: {},   // year -> true
-    expandedSubs: {}     // key -> true
+    expandedSubs: {},     // key -> true
+    loadedData: {},      // key (e.g. N5_2022) -> data
+    loadedLevels: {}     // levelId -> boolean
   };
 
   // ── Pre-built index (built once per level) ────────────────
@@ -38,7 +40,7 @@
     for (var y = 0; y < YEARS.length; y++) {
       var year = YEARS[y];
       var key = levelId + '_' + year;
-      var data = (typeof PAPER_DATA !== 'undefined') ? PAPER_DATA[key] : null;
+      var data = state.loadedData[key];
       if (!data) continue;
       byYear[year] = data.question_map;
 
@@ -463,7 +465,7 @@
 
   // ── Event Handlers ────────────────────────────────────────
 
-  function onLevelSelect(levelId) {
+  async function onLevelSelect(levelId) {
     state.selectedLevel = levelId;
     state.selectedSection = null;
     state.selectedSubsection = null;
@@ -471,6 +473,26 @@
     state.expandedSubs = {};
 
     renderLevelBadges();
+
+    // Load data if not already present
+    if (!state.loadedLevels[levelId]) {
+      show(els.loading);
+      try {
+        var resp = await fetch('data/' + levelId + '.json');
+        if (!resp.ok) throw new Error('Failed to load data for ' + levelId);
+        var json = await resp.json();
+        Object.assign(state.loadedData, json);
+        state.loadedLevels[levelId] = true;
+      } catch (err) {
+        console.error(err);
+        alert('Could not load data. Please check your connection.');
+        hide(els.loading);
+        return;
+      } finally {
+        hide(els.loading);
+      }
+    }
+
     buildIndex(levelId);
 
     var sections = getSections(levelId);

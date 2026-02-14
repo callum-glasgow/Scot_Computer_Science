@@ -1,0 +1,1008 @@
+{
+  "N5_2022": {
+    "schema_version": "1.0",
+    "paper_id": "X816/75/01",
+    "paper_name": "N5 Computing Science 2022 MODIFIED",
+    "file": "X8167501.pdf",
+    "course_spec_file": "National5ComputingScienceCourseSpec.pdf",
+    "question_map": [
+      {
+        "question": "2",
+        "subquestions": [
+          {
+            "id": "2",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Implement program output using string concatenation in a high-level programming language."
+          }
+        ]
+      },
+      {
+        "question": "3",
+        "subquestions": [
+          {
+            "id": "3",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "Identify appropriate variable types for provided sample data items."
+          }
+        ]
+      },
+      {
+        "question": "4",
+        "subquestions": [
+          {
+            "id": "4(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Identify the type of loop represented in a provided flowchart design."
+          },
+          {
+            "id": "4(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Show the design for an arithmetic calculation using a design technique of choice."
+          }
+        ]
+      },
+      {
+        "question": "6",
+        "subquestions": [
+          {
+            "id": "6(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Determine the required test input to trigger a specific execution path in a conditional construct."
+          },
+          {
+            "id": "6(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Identify a logical operator used within provided programming code."
+          }
+        ]
+      },
+      {
+        "question": "8",
+        "subquestions": [
+          {
+            "id": "8(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Analysis",
+            "description": "Describe program processes based on a software requirement brief."
+          },
+          {
+            "id": "8(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Refine a design step using a technique of choice to include complex selection or repetition."
+          },
+          {
+            "id": "8(c)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "Identify the most suitable data structure and data type to store a set of Boolean values."
+          },
+          {
+            "id": "8(c)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Implement a provided pseudocode design using a conditional loop in a high-level language."
+          },
+          {
+            "id": "8(c)(iii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Evaluation",
+            "description": "Explain the performance efficiency of a program design based on data volume."
+          }
+        ]
+      },
+      {
+        "question": "9",
+        "subquestions": [
+          {
+            "id": "9(a)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "State an alternative design technique used to represent a program's logic."
+          },
+          {
+            "id": "9(a)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Development methodologies",
+            "description": "Explain the iterative nature of the software development process regarding the design stage."
+          },
+          {
+            "id": "9(b)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (algorithm specification)",
+            "description": "Design an efficient solution to perform input validation within a range."
+          },
+          {
+            "id": "9(b)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Complete a test table using appropriate extreme and exceptional test data."
+          },
+          {
+            "id": "9(c)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Evaluation",
+            "description": "Explain how indentation improves the readability of programming code."
+          },
+          {
+            "id": "9(c)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Evaluation",
+            "description": "Describe how to improve the readability of a complex selection statement."
+          },
+          {
+            "id": "9(c)(iv)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Identify the type of error caused by using an incorrect logical operator."
+          }
+        ]
+      },
+      {
+        "question": "10",
+        "subquestions": [
+          {
+            "id": "10(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Design a user interface for a program based on functional requirements."
+          },
+          {
+            "id": "10(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "Implement efficient constructs such as arrays and loops to replace inefficient sequential code."
+          }
+        ]
+      }
+    ]
+  },
+  "N5_2023": {
+    "schema_version": "1.0",
+    "paper_id": "X816/75/01",
+    "paper_name": "Computing Science National 5 2023 MODIFIED",
+    "file": "2023_Modified_QP_X816-75-01.pdf",
+    "course_spec_file": "Course_Specification_Computing_Science.pdf",
+    "question_map": [
+      {
+        "question": "4",
+        "subquestions": [
+          {
+            "id": "4",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Identify examples of extreme and exceptional test data for a program recording snooker points."
+          }
+        ]
+      },
+      {
+        "question": "5",
+        "subquestions": [
+          {
+            "id": "5",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Identify the software design technique used to represent a program's logic for a barbecue gas burner."
+          }
+        ]
+      },
+      {
+        "question": "6",
+        "subquestions": [
+          {
+            "id": "6(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Identify the predefined function used to count characters within a string."
+          }
+        ]
+      },
+      {
+        "question": "7",
+        "subquestions": [
+          {
+            "id": "7(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Identify a logic error in conditional code and state how to correct it."
+          }
+        ]
+      },
+      {
+        "question": "8",
+        "subquestions": [
+          {
+            "id": "8(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Write code to perform a calculation and update a variable based on an algorithm step."
+          },
+          {
+            "id": "8(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Write code to produce a formatted output string including a variable value."
+          }
+        ]
+      },
+      {
+        "question": "9",
+        "subquestions": [
+          {
+            "id": "9(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Analysis",
+            "description": "Identify the inputs and outputs required for a golf scorecard application."
+          },
+          {
+            "id": "9(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Evaluation",
+            "description": "Evaluate a user interface design to identify why it is not fit for purpose."
+          },
+          {
+            "id": "9(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Implement a complex conditional statement in a high-level language based on an algorithm step."
+          },
+          {
+            "id": "9(d)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "Identify the most suitable data structure and data type for storing a collection of numeric values."
+          }
+        ]
+      },
+      {
+        "question": "10",
+        "subquestions": [
+          {
+            "id": "10(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (algorithm specification)",
+            "description": "Refine an algorithm step to calculate a running total within a loop."
+          },
+          {
+            "id": "10(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Write code using a predefined function to round a numeric value to a specific number of decimal places."
+          },
+          {
+            "id": "10(d)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Identify a logical operator used within a complex conditional statement."
+          },
+          {
+            "id": "10(d)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Identify a syntax error that occurs during translation and state the necessary correction."
+          }
+        ]
+      },
+      {
+        "question": "11",
+        "subquestions": [
+          {
+            "id": "11(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Analysis",
+            "description": "Identify a process carried out by a voting application."
+          },
+          {
+            "id": "11(b)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "State the most suitable data type for storing a single character input."
+          },
+          {
+            "id": "11(b)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (algorithm specification)",
+            "description": "Design an input validation solution to ensure only specific character values are accepted."
+          },
+          {
+            "id": "11(d)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Write code to display an element picked from a data structure using a predefined function."
+          }
+        ]
+      }
+    ]
+  },
+  "N5_2024": {
+    "schema_version": "1.0",
+    "paper_id": "X816/75/01",
+    "paper_name": "National Qualifications 2024 Computing Science",
+    "file": "2024_N5_ComputingScience_QP.pdf",
+    "course_spec_file": "National5ComputingScienceCourseSpecification.pdf",
+    "question_map": [
+      {
+        "question": "1",
+        "subquestions": [
+          {
+            "id": "1",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "Identify appropriate variable types for storing specific data items."
+          }
+        ]
+      },
+      {
+        "question": "3",
+        "subquestions": [
+          {
+            "id": "3",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Development methodologies",
+            "description": "Explain the iterative nature of the software development process between testing and implementation."
+          }
+        ]
+      },
+      {
+        "question": "4",
+        "subquestions": [
+          {
+            "id": "4",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Refine a step of a program design using a design technique such as pseudocode or structure diagrams."
+          }
+        ]
+      },
+      {
+        "question": "5",
+        "subquestions": [
+          {
+            "id": "5(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "State the most suitable data structure for storing a list of multiple items of the same type."
+          },
+          {
+            "id": "5(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Identify the correct predefined function required to generate a selection from a range."
+          }
+        ]
+      },
+      {
+        "question": "7",
+        "subquestions": [
+          {
+            "id": "7(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Identify a specific logical operator used within a complex conditional statement."
+          },
+          {
+            "id": "7(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Describe the purpose of using a Boolean variable as a flag or control variable in code."
+          }
+        ]
+      },
+      {
+        "question": "9",
+        "subquestions": [
+          {
+            "id": "9(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Analysis",
+            "description": "Complete the analysis stage by identifying required inputs and processes for a problem."
+          },
+          {
+            "id": "9(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Implement a calculation involving multiple variables and arithmetic operations in code."
+          },
+          {
+            "id": "9(d)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (algorithm specification)",
+            "description": "Implement the standard algorithm for calculating the running total of values in an array."
+          }
+        ]
+      },
+      {
+        "question": "10",
+        "subquestions": [
+          {
+            "id": "10(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Identify alternative design techniques used to plan software solutions."
+          },
+          {
+            "id": "10(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Identify the type of loop shown within a graphical program design."
+          },
+          {
+            "id": "10(c)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Trace a design with specific test data inputs to determine an expected output value."
+          },
+          {
+            "id": "10(c)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Trace a design with specific test data inputs to determine the final calculated result."
+          },
+          {
+            "id": "10(d)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Create a design for a program using a technique such as pseudocode or structure diagrams."
+          }
+        ]
+      },
+      {
+        "question": "11",
+        "subquestions": [
+          {
+            "id": "11(a)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (algorithm specification)",
+            "description": "Refine a design step to implement input validation for a specific range of values."
+          },
+          {
+            "id": "11(a)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Identify types of test data used to ensure the robustness of a program."
+          },
+          {
+            "id": "11(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Describe modifications required to make a fixed loop handle a variable number of iterations."
+          },
+          {
+            "id": "11(c)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Identify a logic error within a snippet of code containing conditional statements."
+          },
+          {
+            "id": "11(c)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Rewrite code to improve efficiency using more appropriate conditional constructs."
+          },
+          {
+            "id": "11(e)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Implement a predefined function to round a variable to a specific number of decimal places."
+          },
+          {
+            "id": "11(e)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Implement a display statement that concatenates strings and variable values."
+          }
+        ]
+      }
+    ]
+  },
+  "N5_2025": {
+    "schema_version": "1.0",
+    "paper_id": "X816/75/01",
+    "paper_name": "National Qualifications 2025 Computing Science",
+    "file": "X8167501.pdf",
+    "course_spec_file": "National-5-Computing-Science-Course-Specification.pdf",
+    "question_map": [
+      {
+        "question": "2",
+        "subquestions": [
+          {
+            "id": "2",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Development methodologies",
+            "description": "Describe a situation that requires an iterative approach within the software development process."
+          }
+        ]
+      },
+      {
+        "question": "3",
+        "subquestions": [
+          {
+            "id": "3(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "State the result of an arithmetic operation involving exponentiation in a code snippet."
+          },
+          {
+            "id": "3(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Evaluation",
+            "description": "State a technique used to improve the readability of program code."
+          }
+        ]
+      },
+      {
+        "question": "6",
+        "subquestions": [
+          {
+            "id": "6",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Describe the use of string concatenation to create a value from two variables."
+          }
+        ]
+      },
+      {
+        "question": "7",
+        "subquestions": [
+          {
+            "id": "7(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "Identify the most suitable data types for specific sample data."
+          },
+          {
+            "id": "7(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Implement a line of code using a predefined function to generate a random number within a specified range."
+          }
+        ]
+      },
+      {
+        "question": "8",
+        "subquestions": [
+          {
+            "id": "8(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Identify the design technique used to represent program logic."
+          },
+          {
+            "id": "8(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Identify the type of loop used in a program design."
+          },
+          {
+            "id": "8(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "State the most suitable data type for a variable representing a binary condition."
+          }
+        ]
+      },
+      {
+        "question": "9",
+        "subquestions": [
+          {
+            "id": "9(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Implement program code using selection constructs and arithmetic operations to calculate values based on specific conditions."
+          }
+        ]
+      },
+      {
+        "question": "10",
+        "subquestions": [
+          {
+            "id": "10(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Analysis",
+            "description": "Identify the functional processes required by a program based on a problem description."
+          },
+          {
+            "id": "10(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (algorithm specification)",
+            "description": "Implement the standard algorithm for input validation to ensure data meets specific requirements."
+          },
+          {
+            "id": "10(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Identify suitable test data and expected results for a specific validation rule."
+          }
+        ]
+      },
+      {
+        "question": "11",
+        "subquestions": [
+          {
+            "id": "11(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Refine a design step using a technique to show the logic required for processing data."
+          },
+          {
+            "id": "11(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Implement program code using a predefined function to round a numeric value to a specific number of decimal places."
+          },
+          {
+            "id": "11(c)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Identify a logical operator used within a complex conditional statement in program code."
+          },
+          {
+            "id": "11(c)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Identify a logic error in program code and describe the required correction."
+          },
+          {
+            "id": "11(e)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Evaluation",
+            "description": "State the evaluation term used to describe a program's capability to handle unexpected data without crashing."
+          },
+          {
+            "id": "11(g)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Design a user interface for a digital survey using a wireframe to indicate layout and input types."
+          }
+        ]
+      },
+      {
+        "question": "12",
+        "subquestions": [
+          {
+            "id": "12(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Evaluation",
+            "description": "Explain how the use of efficient coding constructs can improve the efficiency of program code."
+          },
+          {
+            "id": "12(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "Explain a problem highlighted by the output of a program in relation to its data types."
+          },
+          {
+            "id": "12(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Describe why a specific piece of program code will not function as expected due to logical errors."
+          }
+        ]
+      }
+    ]
+  },
+  "N5_specimen": {
+    "schema_version": "1.0",
+    "paper_id": "S816/75/01",
+    "paper_name": "National Qualifications SPECIMEN ONLY Computing Science N5",
+    "file": "S816_75_01.pdf",
+    "course_spec_file": "National5ComputingScienceCourseSpecification.pdf",
+    "question_map": [
+      {
+        "question": "1",
+        "subquestions": [
+          {
+            "id": "1",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "State the most suitable data type for storing a true or false response in a program."
+          }
+        ]
+      },
+      {
+        "question": "2",
+        "subquestions": [
+          {
+            "id": "2",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Identify syntax and logic errors within a provided snippet of program code."
+          }
+        ]
+      },
+      {
+        "question": "4",
+        "subquestions": [
+          {
+            "id": "4",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Determine the output of a short program that uses an exponentiation arithmetic operator."
+          }
+        ]
+      },
+      {
+        "question": "5",
+        "subquestions": [
+          {
+            "id": "5",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Development methodologies",
+            "description": "Explain the iterative nature of the software development process."
+          }
+        ]
+      },
+      {
+        "question": "7",
+        "subquestions": [
+          {
+            "id": "7(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Design an efficient solution using a design technique to implement input validation for specific values."
+          },
+          {
+            "id": "7(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Provide a numerical example of exceptional test data for an input validation routine."
+          }
+        ]
+      },
+      {
+        "question": "10",
+        "subquestions": [
+          {
+            "id": "10(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Design a user interface for a survey application that facilitates quick data entry on a touchscreen."
+          },
+          {
+            "id": "10(b)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "Identify a specific value from a provided program design that would be stored as an integer data type."
+          },
+          {
+            "id": "10(b)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Identify the loop condition used within a graphical program design."
+          },
+          {
+            "id": "10(b)(iii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Evaluation",
+            "description": "Identify an inefficient component of a program design that does not affect the correctness of the final solution."
+          },
+          {
+            "id": "10(c)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Perform a dry run of a program design using provided test data to state the expected output."
+          },
+          {
+            "id": "10(c)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Describe the necessary edits to a program design to correct a logical error in a calculation."
+          }
+        ]
+      },
+      {
+        "question": "11",
+        "subquestions": [
+          {
+            "id": "11(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Analysis",
+            "description": "Identify the functional processes required for a program based on a textual description of its behavior."
+          },
+          {
+            "id": "11(b)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "State the appropriate data structure and data type required to store a collection of words."
+          },
+          {
+            "id": "11(c)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Identify a logical operator used within a provided snippet of program code."
+          },
+          {
+            "id": "11(c)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Write a line of code using a predefined function to generate random values within a specific range."
+          },
+          {
+            "id": "11(c)(iii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Explain why a program using random selection might fail to process every item in a list."
+          }
+        ]
+      },
+      {
+        "question": "12",
+        "subquestions": [
+          {
+            "id": "12(a)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "State the specific type of loop required to implement a provided program design."
+          },
+          {
+            "id": "12(a)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (algorithm specification)",
+            "description": "Identify the standard algorithm being used within a hierarchical program design."
+          },
+          {
+            "id": "12(a)(iii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Match examples from a program design to their corresponding programming constructs."
+          },
+          {
+            "id": "12(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "State an appropriate data type for a variable storing a count of items and justify the choice."
+          },
+          {
+            "id": "12(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Evaluation",
+            "description": "Rewrite a conditional code block more efficiently using appropriate selection constructs."
+          }
+        ]
+      },
+      {
+        "question": "13",
+        "subquestions": [
+          {
+            "id": "13(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Explain how a program uses selection and output to inform a user when a specific condition is met."
+          },
+          {
+            "id": "13(b)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Analysis",
+            "description": "Identify a boundary value based on conditional requirements in a program code snippet."
+          },
+          {
+            "id": "13(b)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (algorithm specification)",
+            "description": "Explain the necessity of resetting a counter variable within a loop that processes multiple sets of data."
+          },
+          {
+            "id": "13(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Describe how to edit program code to include a complex conditional statement involving multiple variables."
+          }
+        ]
+      }
+    ]
+  }
+}

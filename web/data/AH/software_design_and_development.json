@@ -1,0 +1,776 @@
+{
+  "AH_2022": {
+    "schema_version": "1.0",
+    "paper_id": "X816/77/11",
+    "paper_name": "Computing Science",
+    "file": "X8167711.pdf",
+    "course_spec_file": "AdvancedHigherComputingScienceCourseSpec.pdf",
+    "question_map": [
+      {
+        "question": "1",
+        "subquestions": [
+          {
+            "id": "1",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Data types and structures",
+            "description": "Identify the dynamic data structure and specific insertion operation described in pseudocode."
+          }
+        ]
+      },
+      {
+        "question": "2",
+        "subquestions": [
+          {
+            "id": "2(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Algorithm specification",
+            "description": "Complete a binary search algorithm by writing conditional statements for loop control and search space reduction."
+          },
+          {
+            "id": "2(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Algorithm specification",
+            "description": "Explain why an array must be sorted for a binary search algorithm to return correct results."
+          }
+        ]
+      },
+      {
+        "question": "3",
+        "subquestions": [
+          {
+            "id": "3(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Algorithm specification",
+            "description": "Trace the intermediate state of an integer array during an insertion sort."
+          },
+          {
+            "id": "3(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Algorithm specification",
+            "description": "Trace the intermediate state of an integer array during a bubble sort."
+          }
+        ]
+      },
+      {
+        "question": "4",
+        "subquestions": [
+          {
+            "id": "4(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Computational constructs",
+            "description": "Describe the effect of inheritance on attributes and methods within an object-oriented class hierarchy."
+          },
+          {
+            "id": "4(b)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "UML",
+            "description": "Identify a constructor method within a provided UML class diagram."
+          },
+          {
+            "id": "4(b)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Computational constructs",
+            "description": "Write a class declaration for a subclass including inherited and specific instance variables."
+          },
+          {
+            "id": "4(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Computational constructs",
+            "description": "Explain the purpose of method overriding in the context of object-oriented polymorphism."
+          },
+          {
+            "id": "4(d)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Computational constructs",
+            "description": "Explain the process of object instantiation using appropriate object-oriented terminology."
+          },
+          {
+            "id": "4(d)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Data types and structures",
+            "description": "Explain the declaration and initialization of an array of objects."
+          },
+          {
+            "id": "4(d)(iii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Computational constructs",
+            "description": "Write code to iterate through an array of objects and perform conditional counting using a method."
+          }
+        ]
+      },
+      {
+        "question": "5",
+        "subquestions": [
+          {
+            "id": "5(a)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Produce requirement specifications for end users and develop:",
+            "description": "State functional requirements for a software solution based on a specific problem scenario."
+          },
+          {
+            "id": "5(a)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Data types and structures",
+            "description": "Write code to declare a two-dimensional array representing a game board."
+          },
+          {
+            "id": "5(a)(iii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Data types and structures",
+            "description": "Write code to assign values to multiple random indices within a two-dimensional array."
+          },
+          {
+            "id": "5(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Data types and structures",
+            "description": "Implement logic to search for a value in a 2-D array and update its position based on conditional movement rules."
+          },
+          {
+            "id": "5(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Exemplify and implement efficient design solutions to a problem at this level, using pseudocode, showing:",
+            "description": "Design a complex procedure using pseudocode to handle movement, collision detection, and game state updates."
+          }
+        ]
+      }
+    ]
+  },
+  "AH_2023": {
+    "schema_version": "1.0",
+    "paper_id": "X816/77/11",
+    "paper_name": "Computing Science",
+    "file": "X816_77_11.pdf",
+    "course_spec_file": "Advanced Higher Computing Science Course Specification.pdf",
+    "question_map": [
+      {
+        "question": "1",
+        "subquestions": [
+          {
+            "id": "1",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Declare a 2-D array of character values to store a game board grid using a chosen programming language."
+          }
+        ]
+      },
+      {
+        "question": "2",
+        "subquestions": [
+          {
+            "id": "2(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain the advantages of implementing a queue as a single linked list rather than a double linked list."
+          },
+          {
+            "id": "2(b)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Describe the changes to node pointers when removing the first element of a single linked list."
+          },
+          {
+            "id": "2(b)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Describe how pointers are adjusted to remove a specific middle node from a single linked list."
+          },
+          {
+            "id": "2(b)(iii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Describe the steps required to add a new node to the end of an existing single linked list."
+          }
+        ]
+      },
+      {
+        "question": "3",
+        "subquestions": [
+          {
+            "id": "3(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Analysis",
+            "description": "Identify an additional actor required for a given system based on a UML use case diagram."
+          },
+          {
+            "id": "3(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Analysis",
+            "description": "Explain the difference between include and extend relationships within a UML use case diagram."
+          }
+        ]
+      },
+      {
+        "question": "4",
+        "subquestions": [
+          {
+            "id": "4(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Describe the effect of code that instantiates an object and initialises its properties using object-oriented terminology."
+          },
+          {
+            "id": "4(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Implement a class method to calculate a value based on the average of several object properties."
+          },
+          {
+            "id": "4(c)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain the purpose of code used to declare and initialise an array of objects."
+          },
+          {
+            "id": "4(c)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Complete the logic for a bubble sort algorithm to arrange data in descending order."
+          },
+          {
+            "id": "4(d)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain the concept of inheritance by referring to relationships between classes in a UML diagram."
+          },
+          {
+            "id": "4(d)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Identify the object-oriented feature where a subclass overrides a method from its superclass."
+          }
+        ]
+      },
+      {
+        "question": "5",
+        "subquestions": [
+          {
+            "id": "5(a)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Design an algorithm using pseudocode to extract a unique list of values from an array of records."
+          },
+          {
+            "id": "5(a)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Complete the logic for an insertion sort algorithm to arrange local authority names in alphabetical order."
+          },
+          {
+            "id": "5(a)(iii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Design an algorithm using pseudocode to calculate and store average values rounded to the nearest integer."
+          },
+          {
+            "id": "5(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Design a complex algorithm that uses binary search to find data and displays the results in a diagram."
+          }
+        ]
+      }
+    ]
+  },
+  "AH_2024": {
+    "schema_version": "1.0",
+    "paper_id": "X816/77/11",
+    "paper_name": "Computing Science",
+    "file": "X816_77_11_2024_QP.pdf",
+    "course_spec_file": "AH_ComputingScience_CourseSpec.pdf",
+    "question_map": [
+      {
+        "question": "1",
+        "subquestions": [
+          {
+            "id": "1",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "State the data item comparisons performed during a binary search to locate a target in a sorted list."
+          }
+        ]
+      },
+      {
+        "question": "2",
+        "subquestions": [
+          {
+            "id": "2(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Identify the memory address stored in the head pointer of a sorted single linked list."
+          },
+          {
+            "id": "2(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Determine the correct pointer values for nodes in a single linked list to maintain alphabetical order."
+          }
+        ]
+      },
+      {
+        "question": "3",
+        "subquestions": [
+          {
+            "id": "3(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Define a two-dimensional array structure using a specific programming language to store grid data."
+          },
+          {
+            "id": "3(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Write code to assign a value to a specific element within a two-dimensional array structure."
+          }
+        ]
+      },
+      {
+        "question": "4",
+        "subquestions": [
+          {
+            "id": "4(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Explain how a user description is used to conduct usability testing and obtain feedback on ease of use."
+          },
+          {
+            "id": "4(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Evaluation",
+            "description": "Identify and justify the specific type of maintenance required to integrate new functionality into an existing system."
+          }
+        ]
+      },
+      {
+        "question": "5",
+        "subquestions": [
+          {
+            "id": "5(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain the application and purpose of method overriding within an object-oriented class hierarchy."
+          },
+          {
+            "id": "5(b)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Describe the effect of an object instantiation statement using appropriate object-oriented terminology."
+          },
+          {
+            "id": "5(b)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "State the output produced by tracing code involving object-oriented method calls and attribute updates."
+          },
+          {
+            "id": "5(c)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Describe the functional effect of calling a setter method on a specific object indexed within an array of objects."
+          },
+          {
+            "id": "5(c)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain the cause of a code error related to calling methods not present in a superclass or specific subclass."
+          },
+          {
+            "id": "5(d)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Implement the while-loop structure for a bubble sort algorithm in a chosen programming language."
+          },
+          {
+            "id": "5(d)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Implement the conditional comparison logic for adjacent array elements in a bubble sort algorithm."
+          },
+          {
+            "id": "5(d)(iii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Write code to perform a swap operation between two elements in an array within a sort routine."
+          }
+        ]
+      },
+      {
+        "question": "6",
+        "subquestions": [
+          {
+            "id": "6(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Refine a top-level design using pseudocode to show the steps for reading database records into an array of records."
+          },
+          {
+            "id": "6(b)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Write the pseudocode logic to complete an insertion sort algorithm to arrange data in descending order."
+          },
+          {
+            "id": "6(b)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Develop a pseudocode refinement to move rows of data within an array to accommodate new records."
+          },
+          {
+            "id": "6(b)(iii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Write a pseudocode algorithm to identify and display records meeting a specific percentage reduction threshold."
+          }
+        ]
+      }
+    ]
+  },
+  "AH_2025": {
+    "schema_version": "1.0",
+    "paper_id": "X816/77/11",
+    "paper_name": "Computing Science",
+    "file": "X816_77_11_ComputingScience_QP_2025.pdf",
+    "course_spec_file": "AdvancedHigherComputingScienceCourseSpec.pdf",
+    "question_map": [
+      {
+        "question": "1",
+        "subquestions": [
+          {
+            "id": "1",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Identify and justify the appropriate type of linked list structure for a specific board game scenario."
+          }
+        ]
+      },
+      {
+        "question": "2",
+        "subquestions": [
+          {
+            "id": "2(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain the suitability of a dataset for the application of a binary search algorithm."
+          },
+          {
+            "id": "2(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Calculate the maximum number of comparisons required in a binary search for a list of a specific size."
+          },
+          {
+            "id": "2(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Identify errors in a binary search algorithm design and provide the correct logic for each."
+          }
+        ]
+      },
+      {
+        "question": "3",
+        "subquestions": [
+          {
+            "id": "3(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain the logic for excluding a constructor method in a specific object-oriented class design."
+          },
+          {
+            "id": "3(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain the application of polymorphism or inheritance where a method appears in both base and derived classes."
+          },
+          {
+            "id": "3(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Describe how inheritance allows an array to store objects of different related types."
+          },
+          {
+            "id": "3(d)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain execution errors related to encapsulation and access modifiers in object-oriented programming."
+          },
+          {
+            "id": "3(e)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain why a specific method call is invalid when accessing a sub-class method through a superclass reference."
+          },
+          {
+            "id": "3(e)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Describe techniques such as casting or type checking to successfully execute a sub-class method."
+          },
+          {
+            "id": "3(f)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Design a bubble sort procedure in pseudocode to sort an array of objects and display specific record fields."
+          }
+        ]
+      },
+      {
+        "question": "4",
+        "subquestions": [
+          {
+            "id": "4(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Write code to declare a two-dimensional array of real numbers in a chosen programming language."
+          },
+          {
+            "id": "4(b)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Implement an insertion sort algorithm to sort a two-dimensional array in descending order."
+          },
+          {
+            "id": "4(b)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Describe the test evidence required to confirm that a multi-dimensional array has been sorted correctly."
+          },
+          {
+            "id": "4(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Design an algorithm using pseudocode to populate a new array based on data comparisons within an existing dataset."
+          },
+          {
+            "id": "4(d)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Evaluation",
+            "description": "Identify and justify the appropriate type of software maintenance required for a specific code rewrite."
+          },
+          {
+            "id": "4(d)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Analysis",
+            "description": "Explain the importance of economic and technical feasibility considerations in project planning."
+          }
+        ]
+      }
+    ]
+  },
+  "AH_specimen": {
+    "schema_version": "1.0",
+    "paper_id": "S816/77/11",
+    "paper_name": "National Qualifications Computing Science Advanced Higher Specimen Question Paper",
+    "file": "specimen-qp-advanced-higher-computing-science.pdf",
+    "course_spec_file": "advanced-higher-computing-science-course-specification.pdf",
+    "question_map": [
+      {
+        "question": "1",
+        "subquestions": [
+          {
+            "id": "1",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Describe the sequence of pointer operations required to add a new node to the end of a double linked list."
+          }
+        ]
+      },
+      {
+        "question": "2",
+        "subquestions": [
+          {
+            "id": "2(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Identify the correct comparison condition required to implement a bubble sort algorithm on an array of records."
+          },
+          {
+            "id": "2(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain how a variable is used to control the loop boundaries and improve the efficiency of a bubble sort."
+          },
+          {
+            "id": "2(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Evaluation",
+            "description": "Evaluate the efficiency of the bubble sort algorithm in terms of the number of comparisons required for a large dataset."
+          }
+        ]
+      },
+      {
+        "question": "3",
+        "subquestions": [
+          {
+            "id": "3(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "State the initial values stored in the instance variables of a subclass object upon instantiation."
+          },
+          {
+            "id": "3(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain why direct manipulation of a private property is invalid according to the principle of encapsulation."
+          },
+          {
+            "id": "3(c)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain how the use of inheritance and subclasses reduces development time during program expansion."
+          },
+          {
+            "id": "3(c)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Design a UML class diagram for a subclass that includes private properties, public methods, and inheritance."
+          },
+          {
+            "id": "3(c)(iii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain the limitations of accessing subclass methods when objects are stored within a superclass array using polymorphism."
+          },
+          {
+            "id": "3(d)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Implement code to find and display the unique identifier of an object containing a maximum attribute value within an array."
+          }
+        ]
+      },
+      {
+        "question": "4",
+        "subquestions": [
+          {
+            "id": "4(a)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Analysis",
+            "description": "Construct a Gantt chart to plan the scheduling of sequential and overlapping project stages."
+          },
+          {
+            "id": "4(a)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Analysis",
+            "description": "Explain why economic and technical feasibility studies are necessary before a project proceeds."
+          },
+          {
+            "id": "4(b)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Write code to declare a 2-D array using a specific data type and appropriate dimensions."
+          },
+          {
+            "id": "4(b)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Implement code to assign specific character values to multiple coordinates within a 2-D array."
+          },
+          {
+            "id": "4(b)(iii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Design a pseudocode algorithm that uses nested loops to process data in a 2-D array based on conditional inputs."
+          },
+          {
+            "id": "4(b)(iv)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation",
+            "description": "Design a pseudocode algorithm to find the minimum magnitude value within a 1-D array."
+          },
+          {
+            "id": "4(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT — 35 marks",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Describe the differences between usability testing conducted with prototypes and testing conducted with end-users on live solutions."
+          }
+        ]
+      }
+    ]
+  }
+}

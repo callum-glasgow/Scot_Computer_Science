@@ -1,0 +1,551 @@
+{
+  "N5_2022": {
+    "schema_version": "1.0",
+    "paper_id": "X816/75/01",
+    "paper_name": "N5 Computing Science 2022 MODIFIED",
+    "file": "X8167501.pdf",
+    "course_spec_file": "National5ComputingScienceCourseSpec.pdf",
+    "question_map": [
+      {
+        "question": "11",
+        "subquestions": [
+          {
+            "id": "11",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Identify the appropriate data type for a specific field in a data dictionary."
+          }
+        ]
+      },
+      {
+        "question": "12",
+        "subquestions": [
+          {
+            "id": "12(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Determine the expected output from a provided SQL SELECT statement."
+          },
+          {
+            "id": "12(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Testing",
+            "description": "Describe how to test the accuracy of a database query result."
+          }
+        ]
+      },
+      {
+        "question": "13",
+        "subquestions": [
+          {
+            "id": "13(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Complete an entity-relationship diagram to show the relationship between two entities."
+          },
+          {
+            "id": "13(b)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Design a complex database query by specifying fields, tables, and search criteria."
+          },
+          {
+            "id": "13(b)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Complete an SQL statement including WHERE and ORDER BY clauses for a specified output."
+          }
+        ]
+      },
+      {
+        "question": "14",
+        "subquestions": [
+          {
+            "id": "14(a)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Identify primary key attributes within an entity-relationship diagram."
+          },
+          {
+            "id": "14(a)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Identify a database attribute that would be implemented with restricted choice validation."
+          },
+          {
+            "id": "14(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Explain the applicability of General Data Protection Regulations to specific database content."
+          },
+          {
+            "id": "14(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Implement a record insertion into a database table using the SQL INSERT INTO statement."
+          },
+          {
+            "id": "14(d)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Implement an efficient record deletion using an SQL DELETE statement with complex criteria."
+          }
+        ]
+      }
+    ]
+  },
+  "N5_2023": {
+    "schema_version": "1.0",
+    "paper_id": "X816/75/01",
+    "paper_name": "Computing Science National 5 2023 MODIFIED",
+    "file": "2023_Modified_QP_X816-75-01.pdf",
+    "course_spec_file": "Course_Specification_Computing_Science.pdf",
+    "question_map": [
+      {
+        "question": "12",
+        "subquestions": [
+          {
+            "id": "12(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "State the type of validation used to restrict attribute entries to a predefined list."
+          },
+          {
+            "id": "12(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Identify the correct attribute types for Boolean and Date fields in a data dictionary."
+          }
+        ]
+      },
+      {
+        "question": "13",
+        "subquestions": [
+          {
+            "id": "13",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Complete an SQL statement using an ORDER BY clause to sort query results."
+          }
+        ]
+      },
+      {
+        "question": "14",
+        "subquestions": [
+          {
+            "id": "14(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Complete an entity-relationship diagram by adding keys and establishing a relationship between entities."
+          },
+          {
+            "id": "14(b)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Implement an SQL SELECT statement with multiple criteria to filter records from a relational database."
+          },
+          {
+            "id": "14(b)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Complete an SQL UPDATE statement to modify a specific record in a database table."
+          },
+          {
+            "id": "14(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain how referential integrity prevents the insertion of records with invalid foreign keys."
+          }
+        ]
+      },
+      {
+        "question": "15",
+        "subquestions": [
+          {
+            "id": "15(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Design a database query by identifying the necessary fields, tables, and search criteria."
+          },
+          {
+            "id": "15(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write an SQL INSERT statement to add a new record to a database table."
+          },
+          {
+            "id": "15(c)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Testing",
+            "description": "Evaluate why a specific SQL DELETE statement is not fit for its intended purpose."
+          },
+          {
+            "id": "15(c)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write an SQL DELETE statement to remove records from a table based on a location criteria."
+          }
+        ]
+      }
+    ]
+  },
+  "N5_2024": {
+    "schema_version": "1.0",
+    "paper_id": "X816/75/01",
+    "paper_name": "National Qualifications 2024 Computing Science",
+    "file": "2024_N5_ComputingScience_QP.pdf",
+    "course_spec_file": "National5ComputingScienceCourseSpecification.pdf",
+    "question_map": [
+      {
+        "question": "12",
+        "subquestions": [
+          {
+            "id": "12",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Identify the most appropriate attribute type for storing numerical strings like phone numbers."
+          }
+        ]
+      },
+      {
+        "question": "13",
+        "subquestions": [
+          {
+            "id": "13",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Describe the implications of the UK General Data Protection Regulation regarding the deletion of user data."
+          }
+        ]
+      },
+      {
+        "question": "14",
+        "subquestions": [
+          {
+            "id": "14(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Complete a SQL statement to sort query results based on a specific field."
+          },
+          {
+            "id": "14(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write a SQL statement to remove specific records from a database table."
+          }
+        ]
+      },
+      {
+        "question": "15",
+        "subquestions": [
+          {
+            "id": "15(a)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Complete an entity-relationship diagram by identifying keys and defining relationships."
+          },
+          {
+            "id": "15(a)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Identify appropriate validation techniques to be applied to a specific database attribute."
+          },
+          {
+            "id": "15(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Evaluation",
+            "description": "Explain why a specific SQL UPDATE statement would produce an unintended result."
+          },
+          {
+            "id": "15(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Rewrite a SQL UPDATE statement with correct filtering to modify specific records."
+          }
+        ]
+      },
+      {
+        "question": "16",
+        "subquestions": [
+          {
+            "id": "16(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Explain the purpose of using a foreign key to link related tables in a database."
+          },
+          {
+            "id": "16(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Design a query by specifying the required fields, tables, and search criteria."
+          },
+          {
+            "id": "16(c)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Complete a SQL SELECT statement involving multiple tables and complex search criteria."
+          },
+          {
+            "id": "16(c)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Testing",
+            "description": "Describe how a SQL query should be tested by comparing actual results with predicted output."
+          },
+          {
+            "id": "16(d)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain the benefit of implementing referential integrity in a relational database."
+          }
+        ]
+      }
+    ]
+  },
+  "N5_2025": {
+    "schema_version": "1.0",
+    "paper_id": "X816/75/01",
+    "paper_name": "National Qualifications 2025 Computing Science",
+    "file": "X8167501.pdf",
+    "course_spec_file": "National-5-Computing-Science-Course-Specification.pdf",
+    "question_map": [
+      {
+        "question": "13",
+        "subquestions": [
+          {
+            "id": "13",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Complete an SQL statement by implementing a multi-level sort using the ORDER BY clause."
+          }
+        ]
+      },
+      {
+        "question": "14",
+        "subquestions": [
+          {
+            "id": "14(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Identify suitable attribute names and attribute types for a data dictionary."
+          },
+          {
+            "id": "14(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "State an attribute in a database table where restricted choice validation could be applied."
+          }
+        ]
+      },
+      {
+        "question": "15",
+        "subquestions": [
+          {
+            "id": "15(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Complete an entity-relationship diagram by identifying key attributes and drawing the relationship between entities."
+          },
+          {
+            "id": "15(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Implement a complex SQL SELECT statement involving multiple search criteria."
+          },
+          {
+            "id": "15(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "State a requirement of the UK General Data Protection Regulation (UK GDPR) relating to data security."
+          }
+        ]
+      },
+      {
+        "question": "16",
+        "subquestions": [
+          {
+            "id": "16(a)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Design a solution to a complex database query by identifying the required fields, tables, and search criteria."
+          },
+          {
+            "id": "16(a)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Testing",
+            "description": "Describe how an SQL statement can be tested after it has been created."
+          },
+          {
+            "id": "16(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Interpret a complex SQL statement to determine the expected output based on provided sample data."
+          },
+          {
+            "id": "16(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Implement an SQL UPDATE statement to modify data in a database table."
+          },
+          {
+            "id": "16(d)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain why an SQL INSERT statement would fail to add a record due to referential integrity issues."
+          }
+        ]
+      }
+    ]
+  },
+  "N5_specimen": {
+    "schema_version": "1.0",
+    "paper_id": "S816/75/01",
+    "paper_name": "National Qualifications SPECIMEN ONLY Computing Science N5",
+    "file": "S816_75_01.pdf",
+    "course_spec_file": "National5ComputingScienceCourseSpecification.pdf",
+    "question_map": [
+      {
+        "question": "14",
+        "subquestions": [
+          {
+            "id": "14(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Describe the results produced by a SQL query that includes multiple search criteria and a sort order."
+          },
+          {
+            "id": "14(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "State the specific SQL operation required to modify existing data within a database record."
+          }
+        ]
+      },
+      {
+        "question": "15",
+        "subquestions": [
+          {
+            "id": "15",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Identify standard items of information contained within a database data dictionary."
+          }
+        ]
+      },
+      {
+        "question": "16",
+        "subquestions": [
+          {
+            "id": "16(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Analysis",
+            "description": "State the functional requirements for a database system based on a detailed problem scenario."
+          },
+          {
+            "id": "16(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Complete an entity-relationship diagram by identifying entities, attributes, and relationships."
+          },
+          {
+            "id": "16(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Identify a database attribute from a scenario that would be appropriately stored as a Boolean field."
+          },
+          {
+            "id": "16(d)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Describe how to implement validation for a field with a set of predefined valid values during table creation."
+          },
+          {
+            "id": "16(d)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Identify a database field from a scenario where range validation would be an appropriate constraint."
+          }
+        ]
+      },
+      {
+        "question": "17",
+        "subquestions": [
+          {
+            "id": "17(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Design a complex database query by specifying the required fields, tables, and search criteria."
+          },
+          {
+            "id": "17(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write a full SQL SELECT statement to produce a specific set of output data in a defined order."
+          },
+          {
+            "id": "17(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Testing",
+            "description": "Explain why a specific SQL statement fails to meet the functional requirements of a database query."
+          }
+        ]
+      }
+    ]
+  }
+}

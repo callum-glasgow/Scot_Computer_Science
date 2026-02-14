@@ -1,0 +1,505 @@
+{
+  "higher_2022": {
+    "schema_version": "1.0",
+    "paper_id": "X816/76/01",
+    "paper_name": "National Qualifications 2022 MODIFIED Computing Science",
+    "file": "2022_Computing_Science_Higher_QP.pdf",
+    "course_spec_file": "Higher_Computing_Science_Course_Specification.pdf",
+    "question_map": [
+      {
+        "question": "9",
+        "subquestions": [
+          {
+            "id": "9(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Analysis",
+            "description": "State a functional requirement for a relational database based on a problem description."
+          },
+          {
+            "id": "9(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Draw an entity-relationship diagram including entity names and cardinality."
+          }
+        ]
+      },
+      {
+        "question": "10",
+        "subquestions": [
+          {
+            "id": "10",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Testing",
+            "description": "Identify errors in an SQL statement involving aggregate functions and wildcards."
+          }
+        ]
+      },
+      {
+        "question": "11",
+        "subquestions": [
+          {
+            "id": "11(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Complete the design for a complex database query including search criteria."
+          },
+          {
+            "id": "11(b)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write an SQL statement using an aggregate function to calculate an average value."
+          },
+          {
+            "id": "11(b)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write a complex SQL query that references the results of a stored query."
+          }
+        ]
+      },
+      {
+        "question": "12",
+        "subquestions": [
+          {
+            "id": "12(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Explain the unsuitability of a compound key for a specific database table."
+          },
+          {
+            "id": "12(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Design a complex database query involving grouping and aggregate functions."
+          },
+          {
+            "id": "12(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write an SQL statement using arithmetic expressions to calculate and display differences."
+          },
+          {
+            "id": "12(d)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write an SQL UPDATE statement to modify field values using percentage calculations."
+          }
+        ]
+      }
+    ]
+  },
+  "higher_2023": {
+    "schema_version": "1.0",
+    "paper_id": "X816/76/01",
+    "paper_name": "National Qualifications 2023 MODIFIED Computing Science",
+    "file": "X8167601.pdf",
+    "course_spec_file": "HigherComputingScienceCourseSpec.pdf",
+    "question_map": [
+      {
+        "question": "12",
+        "subquestions": [
+          {
+            "id": "12",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Create an entity-relationship diagram including entity names and cardinality."
+          }
+        ]
+      },
+      {
+        "question": "13",
+        "subquestions": [
+          {
+            "id": "13",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Predict the output of a SQL SELECT statement involving criteria, aggregate functions, and grouping."
+          }
+        ]
+      },
+      {
+        "question": "14",
+        "subquestions": [
+          {
+            "id": "14(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Design a database query to perform a count calculation based on specific search criteria."
+          },
+          {
+            "id": "14(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Design a multi-table database query including fields, tables, and search criteria."
+          },
+          {
+            "id": "14(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write a SQL statement to update existing records with calculated values."
+          },
+          {
+            "id": "14(d)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Testing",
+            "description": "Identify errors in a SQL SELECT statement involving arithmetic operations and sorting."
+          }
+        ]
+      },
+      {
+        "question": "15",
+        "subquestions": [
+          {
+            "id": "15(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Design a query involving calculated fields and sorting based on requirements."
+          },
+          {
+            "id": "15(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write a SQL statement using aggregate functions and grouping across multiple tables."
+          },
+          {
+            "id": "15(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Implement a SQL statement that utilizes the result of a previous query."
+          },
+          {
+            "id": "15(d)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Evaluation",
+            "description": "Evaluate why a database structure is not fit for purpose during a data insertion attempt."
+          }
+        ]
+      }
+    ]
+  },
+  "higher_2024": {
+    "schema_version": "1.0",
+    "paper_id": "X816/76/01",
+    "paper_name": "National Qualifications 2024 Computing Science",
+    "file": "2024_Computing_Science_Higher.pdf",
+    "course_spec_file": "Higher_Computing_Science_Course_Specification.pdf",
+    "question_map": [
+      {
+        "question": "11",
+        "subquestions": [
+          {
+            "id": "11(a)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Analysis",
+            "description": "Identify a functional requirement derived from a list of end-user requirements for a relational database."
+          },
+          {
+            "id": "11(a)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "State an appropriate SQL aggregate function required to satisfy a specific functional requirement."
+          },
+          {
+            "id": "11(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Construct an entity-occurrence diagram to illustrate instances and relationships based on sample data."
+          }
+        ]
+      },
+      {
+        "question": "12",
+        "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+        "subquestions": [
+          {
+            "id": "12",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain the failure of an INSERT statement when a mandatory foreign key field is omitted."
+          }
+        ]
+      },
+      {
+        "question": "13",
+        "subquestions": [
+          {
+            "id": "13(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write an SQL UPDATE statement to modify numerical data in a specific record."
+          },
+          {
+            "id": "13(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write an SQL DELETE statement to remove records based on a pattern matching criteria."
+          },
+          {
+            "id": "13(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Design an SQL query using a table template to include calculated fields, grouping, and specific sorting."
+          }
+        ]
+      },
+      {
+        "question": "14",
+        "subquestions": [
+          {
+            "id": "14(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Complete an SQL SELECT statement involving equi-joins and search criteria across three tables."
+          },
+          {
+            "id": "14(b)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Identify the expected output table from an SQL statement containing grouping and counting functions."
+          },
+          {
+            "id": "14(b)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain the purpose and necessity of the GROUP BY clause when using aggregate functions."
+          },
+          {
+            "id": "14(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write an SQL SELECT statement using aggregate functions and complex search criteria."
+          },
+          {
+            "id": "14(d)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Describe a solution for queries where aggregate functions are incorrectly used in a WHERE clause."
+          }
+        ]
+      }
+    ]
+  },
+  "higher_2025": {
+    "schema_version": "1.0",
+    "paper_id": "X816/76/01",
+    "paper_name": "National Qualifications 2025 Higher Computing Science",
+    "file": "X816_76_01.pdf",
+    "course_spec_file": "HigherCourseSpecComputingScience.pdf",
+    "question_map": [
+      {
+        "question": "10",
+        "subquestions": [
+          {
+            "id": "10",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Identify the expected output of a SQL SELECT statement involving grouping and aggregate functions."
+          }
+        ]
+      },
+      {
+        "question": "11",
+        "subquestions": [
+          {
+            "id": "11",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Draw an entity-relationship diagram to show the relationships and cardinality within a multi-table database."
+          }
+        ]
+      },
+      {
+        "question": "12",
+        "subquestions": [
+          {
+            "id": "12(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Design a database query by specifying required fields, tables, search criteria, and grouping."
+          },
+          {
+            "id": "12(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write a SQL UPDATE statement to modify record values based on complex criteria."
+          },
+          {
+            "id": "12(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Identify and describe logic or syntax errors in a provided SQL statement."
+          }
+        ]
+      },
+      {
+        "question": "13",
+        "subquestions": [
+          {
+            "id": "13(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Design a relational query involving multiple tables and specific search parameters."
+          },
+          {
+            "id": "13(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write a SQL statement to perform calculations on numeric fields across a result set."
+          },
+          {
+            "id": "13(c)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write a SQL statement using an aggregate function to calculate an average value."
+          },
+          {
+            "id": "13(c)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Complete a complex SQL statement that uses a previously defined query result."
+          },
+          {
+            "id": "13(d)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Illustrate the cardinality between a new link entity and existing database entities."
+          }
+        ]
+      }
+    ]
+  },
+  "higher_specimen": {
+    "schema_version": "1.0",
+    "paper_id": "S816/76/01",
+    "paper_name": "Higher Computing Science Specimen Question Paper",
+    "file": "S816_76_01.pdf",
+    "course_spec_file": "HigherComputingScienceCourseSpec.pdf",
+    "question_map": [
+      {
+        "question": "9",
+        "subquestions": [
+          {
+            "id": "9",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Draw an entity-relationship diagram showing entity names and cardinality for a relational database."
+          }
+        ]
+      },
+      {
+        "question": "10",
+        "subquestions": [
+          {
+            "id": "10",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Determine the expected output of an SQL statement using GROUP BY, aggregate functions, and ORDER BY."
+          }
+        ]
+      },
+      {
+        "question": "11",
+        "subquestions": [
+          {
+            "id": "11(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Complete a design for a database query including fields, criteria, grouping, and sort order."
+          },
+          {
+            "id": "11(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write an SQL UPDATE statement to modify field values based on specific criteria."
+          },
+          {
+            "id": "11(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Correct an SQL SELECT statement to properly use aggregate functions and aliases."
+          },
+          {
+            "id": "11(d)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write an SQL DELETE statement using wildcards to remove records based on partial string matches."
+          }
+        ]
+      },
+      {
+        "question": "12",
+        "subquestions": [
+          {
+            "id": "12(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Explain the limitations of a specific compound key in ensuring database uniqueness."
+          },
+          {
+            "id": "12(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Design a complex query involving multiple tables, calculated fields, and specific date criteria."
+          },
+          {
+            "id": "12(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Complete an SQL statement that utilizes the result of a pre-existing query."
+          }
+        ]
+      }
+    ]
+  }
+}

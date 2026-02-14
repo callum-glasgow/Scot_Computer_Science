@@ -1,0 +1,847 @@
+{
+  "higher_2022": {
+    "schema_version": "1.0",
+    "paper_id": "X816/76/01",
+    "paper_name": "National Qualifications 2022 MODIFIED Computing Science",
+    "file": "2022_Computing_Science_Higher_QP.pdf",
+    "course_spec_file": "Higher_Computing_Science_Course_Specification.pdf",
+    "question_map": [
+      {
+        "question": "5",
+        "subquestions": [
+          {
+            "id": "5(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Complete a trace table to identify logic errors in a given code snippet."
+          },
+          {
+            "id": "5(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Correct a logic error within a procedural high-level language construct."
+          }
+        ]
+      },
+      {
+        "question": "6",
+        "subquestions": [
+          {
+            "id": "6(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Evaluation",
+            "description": "Evaluate a program design in terms of its fitness for purpose based on specified requirements."
+          },
+          {
+            "id": "6(b)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "Define a suitable record data structure to store multiple related attributes."
+          },
+          {
+            "id": "6(b)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "Declare an array of records to store a large collection of data objects."
+          },
+          {
+            "id": "6(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Implement a conditional update to a record field within a collection of data."
+          },
+          {
+            "id": "6(d)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Evaluation",
+            "description": "Describe the benefits of using modular code in software development."
+          },
+          {
+            "id": "6(e)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Explain the importance and benefit of having a comprehensive test plan."
+          }
+        ]
+      },
+      {
+        "question": "7",
+        "subquestions": [
+          {
+            "id": "7(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Analysis",
+            "description": "Identify and state the boundaries of a software problem."
+          },
+          {
+            "id": "7(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Complete a top-level design showing data flow between sub-programs."
+          },
+          {
+            "id": "7(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Refine a complex software design step using pseudocode or structure diagrams."
+          },
+          {
+            "id": "7(d)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Identify and describe errors in sub-program parameter passing during a function call."
+          },
+          {
+            "id": "7(d)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Correct an implementation error in a function call within a high-level language."
+          },
+          {
+            "id": "7(e)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Describe how the position of a variable declaration affects its local or global scope."
+          }
+        ]
+      },
+      {
+        "question": "8",
+        "subquestions": [
+          {
+            "id": "8(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Analysis",
+            "description": "Describe software processes required to meet specified functional requirements."
+          },
+          {
+            "id": "8(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Design a program step to read data from a text file and perform random selection."
+          },
+          {
+            "id": "8(c)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Implement code to extract a substring from a given string variable."
+          },
+          {
+            "id": "8(c)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Implement code to select a random character from a string variable."
+          },
+          {
+            "id": "8(d)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (algorithm specification)",
+            "description": "Implement a linear search algorithm to check for existing values within an array."
+          }
+        ]
+      }
+    ]
+  },
+  "higher_2023": {
+    "schema_version": "1.0",
+    "paper_id": "X816/76/01",
+    "paper_name": "National Qualifications 2023 MODIFIED Computing Science",
+    "file": "X8167601.pdf",
+    "course_spec_file": "HigherComputingScienceCourseSpec.pdf",
+    "question_map": [
+      {
+        "question": "2",
+        "subquestions": [
+          {
+            "id": "2",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Development methodologies",
+            "description": "Describe the advantages of agile methodology compared to iterative development processes."
+          }
+        ]
+      },
+      {
+        "question": "7",
+        "subquestions": [
+          {
+            "id": "7(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Complete a complex conditional loop structure to control the execution of a sub-program."
+          },
+          {
+            "id": "7(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Implement code to perform a sub-program call that returns a value."
+          }
+        ]
+      },
+      {
+        "question": "8",
+        "subquestions": [
+          {
+            "id": "8(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Complete a trace table to verify the execution of a loop containing conditional statements."
+          },
+          {
+            "id": "8(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Explain a logic error within a program's selection constructs."
+          }
+        ]
+      },
+      {
+        "question": "9",
+        "subquestions": [
+          {
+            "id": "9(a)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Predict the output of a program based on complex conditional logic and test data."
+          },
+          {
+            "id": "9(a)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Correct a logic error in a complex conditional statement."
+          },
+          {
+            "id": "9(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Identify formal and actual parameters within a modular program structure."
+          },
+          {
+            "id": "9(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Describe the execution flow and parameter passing during a sub-program call."
+          },
+          {
+            "id": "9(d)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Identify local variables within a procedural programming structure."
+          },
+          {
+            "id": "9(d)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Describe the scope of a local variable within a program."
+          },
+          {
+            "id": "9(d)(iii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Evaluation",
+            "description": "Explain how the use of local variables enhances the maintainability of a software solution."
+          },
+          {
+            "id": "9(e)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (algorithm specification)",
+            "description": "Implement code for a standard algorithm that counts occurrences matching specific criteria in parallel arrays."
+          }
+        ]
+      },
+      {
+        "question": "10",
+        "subquestions": [
+          {
+            "id": "10(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Identify boundary test data for a software component."
+          },
+          {
+            "id": "10(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Design an algorithm using a recognized technique to process data and store it in an external file."
+          },
+          {
+            "id": "10(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Evaluation",
+            "description": "Describe the benefits of modularity in software implementation."
+          }
+        ]
+      },
+      {
+        "question": "11",
+        "subquestions": [
+          {
+            "id": "11(a)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "Define a record data structure for storing multiple related attributes."
+          },
+          {
+            "id": "11(a)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "Declare an array of records to store a collection of data objects."
+          },
+          {
+            "id": "11(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Identify data flow between sub-programs in an algorithm design."
+          },
+          {
+            "id": "11(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (algorithm specification)",
+            "description": "Implement a standard algorithm to find the minimum value in an array of records matching certain criteria."
+          }
+        ]
+      }
+    ]
+  },
+  "higher_2024": {
+    "schema_version": "1.0",
+    "paper_id": "X816/76/01",
+    "paper_name": "National Qualifications 2024 Computing Science",
+    "file": "2024_Computing_Science_Higher.pdf",
+    "course_spec_file": "Higher_Computing_Science_Course_Specification.pdf",
+    "question_map": [
+      {
+        "question": "2",
+        "subquestions": [
+          {
+            "id": "2",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Evaluation",
+            "description": "Compare the evaluation process within agile and iterative software development methodologies."
+          }
+        ]
+      },
+      {
+        "question": "4",
+        "subquestions": [
+          {
+            "id": "4",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Design an algorithm using a standard design technique to find the length of the longest string in an array."
+          }
+        ]
+      },
+      {
+        "question": "6",
+        "subquestions": [
+          {
+            "id": "6(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Write code to perform a modulo arithmetic check within a selection construct."
+          },
+          {
+            "id": "6(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Implement code to invoke a user-defined function and assign its result to a variable."
+          }
+        ]
+      },
+      {
+        "question": "7",
+        "subquestions": [
+          {
+            "id": "7(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "Declare a variable capable of storing an array of records for a specified quantity."
+          },
+          {
+            "id": "7(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (algorithm specification)",
+            "description": "Write code to implement a linear search through an array of records using specified search criteria."
+          }
+        ]
+      },
+      {
+        "question": "8",
+        "subquestions": [
+          {
+            "id": "8(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Analysis",
+            "description": "Identify boundaries for a specified programming problem during the analysis stage."
+          },
+          {
+            "id": "8(b)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Identify a logic error within a user-defined function provided in pseudocode."
+          },
+          {
+            "id": "8(b)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Describe the operational effect of an identified logic error during program execution."
+          },
+          {
+            "id": "8(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Evaluation",
+            "description": "Describe how code efficiency can be improved by refining the logic of a loop structure."
+          },
+          {
+            "id": "8(d)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Identify and distinguish between formal and actual parameters in a code example."
+          }
+        ]
+      },
+      {
+        "question": "9",
+        "subquestions": [
+          {
+            "id": "9(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Complete a data flow table illustrating inputs and outputs for specific top-level design steps."
+          },
+          {
+            "id": "9(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Explain how specifying data flow during the design stage assists in the implementation of code."
+          },
+          {
+            "id": "9(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Develop a refined algorithm for a process requiring data calculation and selection logic."
+          }
+        ]
+      },
+      {
+        "question": "10",
+        "subquestions": [
+          {
+            "id": "10(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Complete a trace table to verify variable changes over the first two iterations of a loop."
+          },
+          {
+            "id": "10(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Identify specific redundant or incorrect code lines to resolve a logic error."
+          },
+          {
+            "id": "10(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Name and describe a debugging technique used to monitor code execution and variable states."
+          },
+          {
+            "id": "10(d)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Explain the concept of local variable scope within a sub-program."
+          },
+          {
+            "id": "10(e)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Evaluation",
+            "description": "Evaluate the benefits of modular programming in terms of efficiency and maintainability."
+          }
+        ]
+      }
+    ]
+  },
+  "higher_2025": {
+    "schema_version": "1.0",
+    "paper_id": "X816/76/01",
+    "paper_name": "National Qualifications 2025 Higher Computing Science",
+    "file": "X816_76_01.pdf",
+    "course_spec_file": "HigherCourseSpecComputingScience.pdf",
+    "question_map": [
+      {
+        "question": "3",
+        "subquestions": [
+          {
+            "id": "3",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Design an algorithm using a suitable technique to process and count character types within a string."
+          }
+        ]
+      },
+      {
+        "question": "4",
+        "subquestions": [
+          {
+            "id": "4",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Development methodologies",
+            "description": "Compare agile and iterative methodologies in the context of changing client requirements."
+          }
+        ]
+      },
+      {
+        "question": "7",
+        "subquestions": [
+          {
+            "id": "7(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Complete a data flow table for a modular software solution."
+          },
+          {
+            "id": "7(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Design an algorithm for a specific modular step involving counting based on multiple criteria."
+          },
+          {
+            "id": "7(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (algorithm specification)",
+            "description": "Implement a linear search algorithm in a high-level programming language to check for existing entries."
+          }
+        ]
+      },
+      {
+        "question": "8",
+        "subquestions": [
+          {
+            "id": "8(a)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "Define a record structure to store heterogeneous data types for a single player."
+          },
+          {
+            "id": "8(a)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "Declare a variable as an array of records to store a large volume of attempts."
+          },
+          {
+            "id": "8(b)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (algorithm specification)",
+            "description": "Write code to find the maximum or minimum value within an array of records."
+          },
+          {
+            "id": "8(b)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Explain the efficiency benefit of using a variable to limit array traversal."
+          },
+          {
+            "id": "8(d)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Write a line of code to call a function and assign its return value to a variable."
+          },
+          {
+            "id": "8(d)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Implement string concatenation and slicing to generate a unique identifier."
+          }
+        ]
+      },
+      {
+        "question": "9",
+        "subquestions": [
+          {
+            "id": "9(a)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Define the concept of variable scope within a program."
+          },
+          {
+            "id": "9(a)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Describe a benefit of using local variables and limiting scope in modular programming."
+          },
+          {
+            "id": "9(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Describe the mechanics of sub-program calls and parameter passing during execution."
+          },
+          {
+            "id": "9(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Complete a trace table to track variable values during the execution of a function."
+          },
+          {
+            "id": "9(d)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Describe how a debugging technique can be utilized to verify program behavior."
+          },
+          {
+            "id": "9(e)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Analyze code to identify and explain a logic error that causes incorrect output."
+          },
+          {
+            "id": "9(e)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Propose specific code modifications to resolve a logic error in a function."
+          },
+          {
+            "id": "9(f)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Evaluation",
+            "description": "Evaluate the robustness of a software function with respect to handling unexpected input."
+          }
+        ]
+      }
+    ]
+  },
+  "higher_specimen": {
+    "schema_version": "1.0",
+    "paper_id": "S816/76/01",
+    "paper_name": "Higher Computing Science Specimen Question Paper",
+    "file": "S816_76_01.pdf",
+    "course_spec_file": "HigherComputingScienceCourseSpec.pdf",
+    "question_map": [
+      {
+        "question": "4",
+        "subquestions": [
+          {
+            "id": "4",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Development methodologies",
+            "description": "Describe two advantages of using agile methodologies compared to iterative development processes."
+          }
+        ]
+      },
+      {
+        "question": "5",
+        "subquestions": [
+          {
+            "id": "5",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Design an algorithm using pseudocode or structure diagrams to generate a check digit for a password."
+          }
+        ]
+      },
+      {
+        "question": "6",
+        "subquestions": [
+          {
+            "id": "6(a)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "Define a suitable record structure to store data extracted from a CSV file."
+          },
+          {
+            "id": "6(a)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (data types and structures)",
+            "description": "Declare an array of records variable capable of storing a specific number of results."
+          },
+          {
+            "id": "6(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Design an algorithm using a recognised technique to create a file based on specific search criteria."
+          },
+          {
+            "id": "6(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Write code to search an array of records and display specific fields or a 'not found' message."
+          }
+        ]
+      },
+      {
+        "question": "7",
+        "subquestions": [
+          {
+            "id": "7(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Complete a table showing the data flow between steps in a top-level design."
+          },
+          {
+            "id": "7(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Explain why a function is more appropriate than a procedure based on data flow requirements."
+          },
+          {
+            "id": "7(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Explain the importance of data flow in a design when implementing modular code."
+          },
+          {
+            "id": "7(d)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Identify a formal parameter and its associated actual parameter from given sub-program code."
+          },
+          {
+            "id": "7(d)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "State the scope of a variable declared within a specific sub-program."
+          },
+          {
+            "id": "7(d)(iii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Describe how to alter a sub-program to ensure it generates unique random values."
+          }
+        ]
+      },
+      {
+        "question": "8",
+        "subquestions": [
+          {
+            "id": "8(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Analysis",
+            "description": "Identify and describe software processes required to meet specified functional requirements."
+          },
+          {
+            "id": "8(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Design",
+            "description": "Design an algorithm using a recognized technique to count matching records across parallel arrays."
+          },
+          {
+            "id": "8(c)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Identify missing values in a trace table used for testing a specific function."
+          },
+          {
+            "id": "8(c)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Describe how a breakpoint can be used to debug code and verify variable values."
+          },
+          {
+            "id": "8(c)(iii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Testing",
+            "description": "Identify and describe the correction for a logic error found in a find-maximum algorithm."
+          },
+          {
+            "id": "8(d)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Software design and development",
+            "course_subsection": "Implementation (computational constructs)",
+            "description": "Write code to call a function with a parameter and assign the return value to a variable."
+          }
+        ]
+      }
+    ]
+  }
+}

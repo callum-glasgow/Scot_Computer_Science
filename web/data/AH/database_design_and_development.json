@@ -1,0 +1,497 @@
+{
+  "AH_2022": {
+    "schema_version": "1.0",
+    "paper_id": "X816/77/11",
+    "paper_name": "Computing Science",
+    "file": "X8167711.pdf",
+    "course_spec_file": "AdvancedHigherComputingScienceCourseSpec.pdf",
+    "question_map": [
+      {
+        "question": "6",
+        "subquestions": [
+          {
+            "id": "6",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "SQL",
+            "description": "Rewrite an SQL statement to correctly define a table with primary keys, auto-incrementing fields, and specific data types."
+          }
+        ]
+      },
+      {
+        "question": "7",
+        "subquestions": [
+          {
+            "id": "7",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Describe, exemplify and implement surrogate keys.",
+            "description": "Explain the purpose and benefits of introducing a surrogate key into a database table design."
+          }
+        ]
+      },
+      {
+        "question": "8",
+        "subquestions": [
+          {
+            "id": "8(a)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Describe, exemplify and implement research for:",
+            "description": "Identify and justify a specific type of feasibility study based on project requirements."
+          },
+          {
+            "id": "8(a)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Describe, exemplify and implement Unified Modelling Language (UML):",
+            "description": "Interpret the relationship between actors, such as generalization, within a UML use case diagram."
+          },
+          {
+            "id": "8(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Describe, exemplify and implement entity-relationship diagrams with three or more entities indicating:",
+            "description": "Design an entity-relationship diagram that captures entity types, relationship participation, and cardinality."
+          },
+          {
+            "id": "8(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "SQL",
+            "description": "Complete an SQL query by identifying missing operators and clauses for aggregate filtering."
+          },
+          {
+            "id": "8(d)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Exemplify a design of a solution query using:",
+            "description": "Complete the design of a database query by defining appropriate search criteria."
+          },
+          {
+            "id": "8(d)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "SQL",
+            "description": "Describe the implementation of a subquery using the IN logical operator."
+          },
+          {
+            "id": "8(e)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "SQL",
+            "description": "Interpret the output of an SQL SELECT statement using wildcards and logical operators."
+          },
+          {
+            "id": "8(f)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Describe, exemplify and implement the following for SDD, DDD and WDD:",
+            "description": "Identify and describe usability testing methods involving the use of personas and test cases."
+          },
+          {
+            "id": "8(f)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Evaluate solution at this level in terms of:",
+            "description": "Evaluate a software solution's fitness for purpose based on provided test results and user interfaces."
+          }
+        ]
+      }
+    ]
+  },
+  "AH_2023": {
+    "schema_version": "1.0",
+    "paper_id": "X816/77/11",
+    "paper_name": "Computing Science",
+    "file": "X816_77_11.pdf",
+    "course_spec_file": "Advanced Higher Computing Science Course Specification.pdf",
+    "question_map": [
+      {
+        "question": "6",
+        "subquestions": [
+          {
+            "id": "6(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Draw an entity-relationship diagram indicating cardinality, participation, and whether entities are strong or weak."
+          },
+          {
+            "id": "6(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Identify a potential problem with a primary key and suggest a resolution to ensure uniqueness."
+          }
+        ]
+      },
+      {
+        "question": "7",
+        "subquestions": [
+          {
+            "id": "7(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Evaluation",
+            "description": "Identify the type of maintenance required to ensure software compatibility with updated web technologies."
+          },
+          {
+            "id": "7(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Analysis",
+            "description": "Evaluate the effectiveness of using a Gantt chart for task scheduling and resource management."
+          },
+          {
+            "id": "7(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Complete an SQL CREATE TABLE statement including data types, foreign keys, and validation constraints."
+          },
+          {
+            "id": "7(d)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Rewrite an SQL WHERE clause using Advanced Higher logical operators like BETWEEN."
+          },
+          {
+            "id": "7(e)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain how query results are generated by referencing subqueries, the EXISTS operator, and the HAVING clause."
+          },
+          {
+            "id": "7(f)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Complete an SQL query using aggregate functions, grouping, and search criteria to produce a specified output."
+          },
+          {
+            "id": "7(g)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Testing",
+            "description": "Identify the role of a development team member in conducting component testing."
+          },
+          {
+            "id": "7(g)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Testing",
+            "description": "Identify the role of an existing customer in conducting end-user or usability testing."
+          }
+        ]
+      }
+    ]
+  },
+  "AH_2024": {
+    "schema_version": "1.0",
+    "paper_id": "X816/77/11",
+    "paper_name": "Computing Science",
+    "file": "X816_77_11_2024_QP.pdf",
+    "course_spec_file": "AH_ComputingScience_CourseSpec.pdf",
+    "question_map": [
+      {
+        "question": "7",
+        "subquestions": [
+          {
+            "id": "7(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Distinguish between strong and weak entities within a provided database schema."
+          },
+          {
+            "id": "7(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Describe the relationship participation between two entities in an entity-occurrence diagram."
+          },
+          {
+            "id": "7(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write a SQL CHECK constraint clause as part of a CREATE statement to restrict field values to a set list."
+          }
+        ]
+      },
+      {
+        "question": "8",
+        "subquestions": [
+          {
+            "id": "8(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Analysis",
+            "description": "Identify the type of feasibility study concerned with investigating required hardware and software."
+          },
+          {
+            "id": "8(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Analysis",
+            "description": "Construct a UML use case diagram showing actors and processes for a database-driven system."
+          },
+          {
+            "id": "8(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Describe two specific benefits of implementing a surrogate key in a relational database entity."
+          },
+          {
+            "id": "8(d)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Complete a SQL UPDATE query by adding logical clauses to validate specific record conditions."
+          },
+          {
+            "id": "8(e)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Evaluate a database query design to identify logical problems and suggest resolutions."
+          },
+          {
+            "id": "8(e)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write a SQL clause using an appropriate logical operator to specify a date range in a query."
+          },
+          {
+            "id": "8(f)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Determine the output produced by a SQL subquery based on provided sample data."
+          },
+          {
+            "id": "8(f)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Determine the final output of a SQL query using the ANY operator and a subquery results set."
+          },
+          {
+            "id": "8(g)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write a HTML form tag including action and method attributes to transmit data securely to a specific PHP page."
+          }
+        ]
+      }
+    ]
+  },
+  "AH_2025": {
+    "schema_version": "1.0",
+    "paper_id": "X816/77/11",
+    "paper_name": "Computing Science",
+    "file": "X816_77_11_ComputingScience_QP_2025.pdf",
+    "course_spec_file": "AdvancedHigherComputingScienceCourseSpec.pdf",
+    "question_map": [
+      {
+        "question": "5",
+        "subquestions": [
+          {
+            "id": "5",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Analysis",
+            "description": "Describe how user survey results are utilized during the analysis stage of database development."
+          }
+        ]
+      },
+      {
+        "question": "6",
+        "subquestions": [
+          {
+            "id": "6(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Complete an entity-relationship diagram indicating entity strength and relationship participation."
+          },
+          {
+            "id": "6(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "State a benefit of using a surrogate key within a specific database entity design."
+          },
+          {
+            "id": "6(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Complete a SQL DDL statement to create a table including primary and foreign key constraints."
+          }
+        ]
+      },
+      {
+        "question": "7",
+        "subquestions": [
+          {
+            "id": "7(a)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write missing SQL conditions using aggregate functions and grouping to complete a complex query."
+          },
+          {
+            "id": "7(b)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Apply Advanced Higher SQL operators and subqueries to filter results based on calculated maximums."
+          },
+          {
+            "id": "7(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain the operational logic of a SQL subquery utilizing the NOT EXISTS operator."
+          },
+          {
+            "id": "7(d)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write HTML code for form elements including action, method, and input types for database integration."
+          },
+          {
+            "id": "7(d)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Testing",
+            "description": "Explain the purpose and necessity of integrative testing in the context of database-driven websites."
+          },
+          {
+            "id": "7(d)(iii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Testing",
+            "description": "Describe the practical steps for carrying out end-user testing on a database-driven website."
+          }
+        ]
+      }
+    ]
+  },
+  "AH_specimen": {
+    "schema_version": "1.0",
+    "paper_id": "S816/77/11",
+    "paper_name": "National Qualifications Computing Science Advanced Higher Specimen Question Paper",
+    "file": "specimen-qp-advanced-higher-computing-science.pdf",
+    "course_spec_file": "advanced-higher-computing-science-course-specification.pdf",
+    "question_map": [
+      {
+        "question": "5",
+        "subquestions": [
+          {
+            "id": "5",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write an SQL statement to create a table structure that includes primary keys, foreign keys, and specific constraints."
+          }
+        ]
+      },
+      {
+        "question": "6",
+        "subquestions": [
+          {
+            "id": "6",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Explain how a surrogate key benefits a database design originally utilizing a compound primary key."
+          }
+        ]
+      },
+      {
+        "question": "7",
+        "subquestions": [
+          {
+            "id": "7(a)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Analysis",
+            "description": "Describe the generalisation relationship between different actors in a UML use case diagram."
+          },
+          {
+            "id": "7(a)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Analysis",
+            "description": "Describe the purpose of the 'extend' relationship between use cases in a UML diagram."
+          },
+          {
+            "id": "7(b)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Identify strong and weak entities within a provided entity-relationship diagram."
+          },
+          {
+            "id": "7(b)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Describe the relationship participation, including mandatory or optional status, between database entities."
+          },
+          {
+            "id": "7(c)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Describe the specific output generated by an SQL SELECT query containing NOT and AND operators."
+          },
+          {
+            "id": "7(d)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Write missing SQL conditions involving date ranges and the HAVING clause to filter aggregated results."
+          },
+          {
+            "id": "7(d)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Complete an SQL query by using the IN operator to filter records based on a list of string values."
+          },
+          {
+            "id": "7(e)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Design",
+            "description": "Complete a design for a complex SQL query that involves an inner query, groupings, and search criteria."
+          },
+          {
+            "id": "7(f)(i)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Explain how the 'required' attribute functions as a form of presence check validation in HTML."
+          },
+          {
+            "id": "7(f)(ii)",
+            "exam_section": "SECTION 2 — DATABASE DESIGN AND DEVELOPMENT — 20 marks",
+            "course_section": "Database design and development",
+            "course_subsection": "Implementation",
+            "description": "Describe the code required to enforce an exact character length validation on an HTML form input."
+          }
+        ]
+      }
+    ]
+  }
+}

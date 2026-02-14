@@ -22,7 +22,9 @@
     expandedYears: {},   // year -> true
     expandedSubs: {},     // key -> true
     loadedData: {},      // key (e.g. N5_2022) -> data
-    loadedLevels: {}     // levelId -> boolean
+    loadedLevels: {},    // levelId -> boolean (legacy/full load)
+    loadedMeta: {},      // levelId -> meta json object
+    loadedSections: {}   // key (levelId/slug) -> boolean
   };
 
   // ── Pre-built index (built once per level) ────────────────
@@ -33,36 +35,20 @@
 
   function buildIndex(levelId) {
     if (index[levelId]) return;
+
+    var meta = state.loadedMeta[levelId];
+    if (!meta) return;
+
     var sections = {};
     var subsections = {};
-    var byYear = {};
 
-    for (var y = 0; y < YEARS.length; y++) {
-      var year = YEARS[y];
-      var key = levelId + '_' + year;
-      var data = state.loadedData[key];
-      if (!data) continue;
-      byYear[year] = data.question_map;
+    Object.keys(meta.sections).forEach(function (secName) {
+      var secData = meta.sections[secName];
+      sections[secName] = secData.count;
+      subsections[secName] = secData.subsections;
+    });
 
-      var qmap = data.question_map;
-      for (var qi = 0; qi < qmap.length; qi++) {
-        var subs = qmap[qi].subquestions;
-        for (var si = 0; si < subs.length; si++) {
-          var sq = subs[si];
-          var sec = sq.course_section;
-          var sub = sq.course_subsection;
-
-          // Count sections
-          sections[sec] = (sections[sec] || 0) + 1;
-
-          // Count subsections per section
-          if (!subsections[sec]) subsections[sec] = {};
-          subsections[sec][sub] = (subsections[sec][sub] || 0) + 1;
-        }
-      }
-    }
-
-    // Sort section names
+    // Populate section list for badges
     var sortedSections = Object.keys(sections).sort();
     var sectionList = [];
     for (var i = 0; i < sortedSections.length; i++) {
@@ -71,8 +57,9 @@
 
     index[levelId] = {
       sectionList: sectionList,
+      sections: sections,
       subsections: subsections,
-      byYear: byYear
+      byYear: {} // Will be populated as we load data
     };
   }
 
@@ -474,15 +461,14 @@
 
     renderLevelBadges();
 
-    // Load data if not already present
-    if (!state.loadedLevels[levelId]) {
+    // Load META data if not already present
+    if (!state.loadedMeta[levelId]) {
       show(els.loading);
       try {
-        var resp = await fetch('data/' + levelId + '.json');
-        if (!resp.ok) throw new Error('Failed to load data for ' + levelId);
+        var resp = await fetch('data/' + levelId + '/meta.json');
+        if (!resp.ok) throw new Error('Failed to load meta for ' + levelId);
         var json = await resp.json();
-        Object.assign(state.loadedData, json);
-        state.loadedLevels[levelId] = true;
+        state.loadedMeta[levelId] = json;
       } catch (err) {
         console.error(err);
         alert('Could not load data. Please check your connection.');
@@ -504,15 +490,66 @@
     hide(els.emptyState);
   }
 
-  function onSectionSelect(section) {
-    state.selectedSection = section;
+  async function onSectionSelect(sectionName) {
+    state.selectedSection = sectionName;
     state.selectedSubsection = null;
     state.expandedYears = {};
     state.expandedSubs = {};
 
     renderSectionBadges(getSections(state.selectedLevel));
 
-    var subsections = getSubsections(state.selectedLevel, section);
+    // GRANULAR FETCH: Load data for this section
+    var levelId = state.selectedLevel;
+    var meta = state.loadedMeta[levelId];
+    if (!meta || !meta.sections[sectionName]) return;
+
+    var sectionSlug = meta.sections[sectionName].slug;
+    var sectionKey = levelId + '/' + sectionSlug;
+
+    if (!state.loadedSections[sectionKey]) {
+      show(els.loading);
+      try {
+        var resp = await fetch('data/' + levelId + '/' + sectionSlug + '.json');
+        if (!resp.ok) throw new Error('Failed to load section ' + sectionSlug);
+        var sectionJson = await resp.json();
+
+        // Merge into state.loadedData
+        Object.keys(sectionJson).forEach(key => {
+          if (!state.loadedData[key]) {
+            state.loadedData[key] = sectionJson[key];
+          } else {
+            // Merge question maps
+            var existing = state.loadedData[key];
+            var newQMap = sectionJson[key].question_map;
+            newQMap.forEach(q => {
+              if (!existing.question_map.find(cq => cq.question === q.question)) {
+                existing.question_map.push(q);
+              }
+            });
+          }
+        });
+
+        // Update Index byYear references
+        var levelIdx = index[levelId];
+        Object.keys(sectionJson).forEach(key => {
+          var year = key.split('_')[1];
+          if (!levelIdx.byYear[year]) {
+            levelIdx.byYear[year] = state.loadedData[key].question_map;
+          }
+        });
+
+        state.loadedSections[sectionKey] = true;
+      } catch (e) {
+        console.error(e);
+        alert('Failed to load section data.');
+        hide(els.loading);
+        return;
+      } finally {
+        hide(els.loading);
+      }
+    }
+
+    var subsections = getSubsections(state.selectedLevel, sectionName);
     renderSubsectionBadges(subsections);
     show(els.subsectionContainer);
 

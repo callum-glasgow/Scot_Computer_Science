@@ -1,0 +1,57 @@
+{
+  "sections": {
+    "Software design and development": {
+      "count": 87,
+      "subsections": {
+        "Data types and structures": 5,
+        "Algorithm specification": 4,
+        "Computational constructs": 5,
+        "UML": 1,
+        "Produce requirement specifications for end users and develop:": 1,
+        "Exemplify and implement efficient design solutions to a problem at this level, using pseudocode, showing:": 1,
+        "Implementation": 56,
+        "Analysis": 5,
+        "Design": 3,
+        "Testing": 3,
+        "Evaluation": 3
+      },
+      "slug": "software_design_and_development"
+    },
+    "Database design and development": {
+      "count": 55,
+      "subsections": {
+        "SQL": 4,
+        "Describe, exemplify and implement surrogate keys.": 1,
+        "Describe, exemplify and implement research for:": 1,
+        "Describe, exemplify and implement Unified Modelling Language (UML):": 1,
+        "Describe, exemplify and implement entity-relationship diagrams with three or more entities indicating:": 1,
+        "Exemplify a design of a solution query using:": 1,
+        "Describe, exemplify and implement the following for SDD, DDD and WDD:": 1,
+        "Evaluate solution at this level in terms of:": 1,
+        "Design": 12,
+        "Evaluation": 1,
+        "Analysis": 6,
+        "Implementation": 21,
+        "Testing": 4
+      },
+      "slug": "database_design_and_development"
+    },
+    "Web design and development": {
+      "count": 60,
+      "subsections": {
+        "PHP": 5,
+        "Describe, exemplify and implement research for:": 1,
+        "Describe, exemplify and implement Unified Modelling Language (UML):": 1,
+        "CSS": 1,
+        "Describe, exemplify and implement the following for SDD, DDD and WDD:": 1,
+        "Evaluate solution at this level in terms of:": 1,
+        "Implementation": 36,
+        "Evaluation": 1,
+        "Analysis": 6,
+        "Testing": 4,
+        "Design": 3
+      },
+      "slug": "web_design_and_development"
+    }
+  }
+}

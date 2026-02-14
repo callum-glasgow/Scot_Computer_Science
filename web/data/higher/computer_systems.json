@@ -1,0 +1,400 @@
+{
+  "higher_2022": {
+    "schema_version": "1.0",
+    "paper_id": "X816/76/01",
+    "paper_name": "National Qualifications 2022 MODIFIED Computing Science",
+    "file": "2022_Computing_Science_Higher_QP.pdf",
+    "course_spec_file": "Higher_Computing_Science_Course_Specification.pdf",
+    "question_map": [
+      {
+        "question": "1",
+        "subquestions": [
+          {
+            "id": "1",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "State the range of denary values for a fixed bit depth using two’s complement."
+          }
+        ]
+      },
+      {
+        "question": "2",
+        "subquestions": [
+          {
+            "id": "2",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Convert a binary number into floating-point representation using mantissa and exponent."
+          }
+        ]
+      },
+      {
+        "question": "3",
+        "subquestions": [
+          {
+            "id": "3",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Compare the relative advantages of vector graphics versus bit-mapped graphics for object manipulation."
+          }
+        ]
+      },
+      {
+        "question": "4",
+        "subquestions": [
+          {
+            "id": "4",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "Explain the impact of cache memory on computer system performance."
+          }
+        ]
+      }
+    ]
+  },
+  "higher_2023": {
+    "schema_version": "1.0",
+    "paper_id": "X816/76/01",
+    "paper_name": "National Qualifications 2023 MODIFIED Computing Science",
+    "file": "X8167601.pdf",
+    "course_spec_file": "HigherComputingScienceCourseSpec.pdf",
+    "question_map": [
+      {
+        "question": "1",
+        "subquestions": [
+          {
+            "id": "1",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Convert an 8-bit two’s complement binary number into its denary equivalent."
+          }
+        ]
+      },
+      {
+        "question": "3",
+        "subquestions": [
+          {
+            "id": "3(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Convert a binary number into floating-point representation using sign, mantissa, and exponent."
+          },
+          {
+            "id": "3(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "State the effect of increasing the number of bits allocated to the mantissa in floating-point representation."
+          }
+        ]
+      },
+      {
+        "question": "4",
+        "subquestions": [
+          {
+            "id": "4",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Security risks and precautions",
+            "description": "State the purpose of a public key in the secure transmission of encrypted data."
+          }
+        ]
+      },
+      {
+        "question": "5",
+        "subquestions": [
+          {
+            "id": "5(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "Complete the steps involved in the fetch-execute cycle."
+          },
+          {
+            "id": "5(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "Explain how specific hardware factors can improve the performance of the fetch-execute cycle."
+          }
+        ]
+      },
+      {
+        "question": "6",
+        "subquestions": [
+          {
+            "id": "6",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Security risks and precautions",
+            "description": "Identify ways in which the Computer Misuse Act is breached during unauthorized access and manipulation of data."
+          }
+        ]
+      }
+    ]
+  },
+  "higher_2024": {
+    "schema_version": "1.0",
+    "paper_id": "X816/76/01",
+    "paper_name": "National Qualifications 2024 Computing Science",
+    "file": "2024_Computing_Science_Higher.pdf",
+    "course_spec_file": "Higher_Computing_Science_Course_Specification.pdf",
+    "question_map": [
+      {
+        "question": "1",
+        "subquestions": [
+          {
+            "id": "1(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Convert a negative denary number into an 8-bit two's complement integer."
+          },
+          {
+            "id": "1(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Identify the maximum positive value possible for an 8-bit two's complement representation."
+          }
+        ]
+      },
+      {
+        "question": "3",
+        "subquestions": [
+          {
+            "id": "3(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Convert a negative binary fractional number into floating-point representation using specified bit allocations."
+          },
+          {
+            "id": "3(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Explain the impact on range when the number of bits for the exponent is increased in floating-point representation."
+          }
+        ]
+      },
+      {
+        "question": "5",
+        "subquestions": [
+          {
+            "id": "5",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "Explain the role of cache memory in improving the performance of a processor."
+          }
+        ]
+      },
+      {
+        "question": "9",
+        "subquestions": [
+          {
+            "id": "9(d)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Security risks and precautions",
+            "description": "Describe the characteristics of a resource starvation Denial of Service attack."
+          },
+          {
+            "id": "9(d)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Security risks and precautions",
+            "description": "Identify a specific financial or operational cost to a company resulting from a cyber attack."
+          }
+        ]
+      }
+    ]
+  },
+  "higher_2025": {
+    "schema_version": "1.0",
+    "paper_id": "X816/76/01",
+    "paper_name": "National Qualifications 2025 Higher Computing Science",
+    "file": "X816_76_01.pdf",
+    "course_spec_file": "HigherCourseSpecComputingScience.pdf",
+    "question_map": [
+      {
+        "question": "1",
+        "subquestions": [
+          {
+            "id": "1(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "State the maximum value of a two’s complement number for a specified lower limit."
+          },
+          {
+            "id": "1(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Determine the number of bits required to store a specific range of integers."
+          }
+        ]
+      },
+      {
+        "question": "2",
+        "subquestions": [
+          {
+            "id": "2",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Security risks and precautions",
+            "description": "State benefits of using digital signatures for document verification."
+          }
+        ]
+      },
+      {
+        "question": "5",
+        "subquestions": [
+          {
+            "id": "5(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "Explain the role of the control bus during the fetch-execute cycle."
+          },
+          {
+            "id": "5(b)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "Identify a factor that can be used to improve the performance of a processor."
+          },
+          {
+            "id": "5(b)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "Explain how increasing a specific architectural component improves overall system performance."
+          }
+        ]
+      },
+      {
+        "question": "6",
+        "subquestions": [
+          {
+            "id": "6(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Differentiate between vector and bit-mapped graphics based on visual artifacts after scaling."
+          },
+          {
+            "id": "6(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "State an advantage of using bit-mapped graphics over vector graphics."
+          }
+        ]
+      },
+      {
+        "question": "8",
+        "subquestions": [
+          {
+            "id": "8(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Convert a binary number into its floating-point representation using specified bit allocations."
+          }
+        ]
+      }
+    ]
+  },
+  "higher_specimen": {
+    "schema_version": "1.0",
+    "paper_id": "S816/76/01",
+    "paper_name": "Higher Computing Science Specimen Question Paper",
+    "file": "S816_76_01.pdf",
+    "course_spec_file": "HigherComputingScienceCourseSpec.pdf",
+    "question_map": [
+      {
+        "question": "1",
+        "subquestions": [
+          {
+            "id": "1(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Convert a negative denary integer into 8-bit two's complement representation."
+          },
+          {
+            "id": "1(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "State the range of denary values that can be represented using 8-bit two's complement."
+          }
+        ]
+      },
+      {
+        "question": "2",
+        "subquestions": [
+          {
+            "id": "2(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "Identify a method of improving processor performance other than increasing clock speed."
+          },
+          {
+            "id": "2(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "Explain how the identified method improves the performance of the computer system."
+          }
+        ]
+      },
+      {
+        "question": "3",
+        "subquestions": [
+          {
+            "id": "3",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Environmental impact",
+            "description": "Describe an intelligent system used in vehicles and justify its benefit to the environment."
+          }
+        ]
+      },
+      {
+        "question": "6",
+        "subquestions": [
+          {
+            "id": "6(d)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Security risks and precautions",
+            "description": "Identify breaches of the Computer Misuse Act related to unauthorized access and modification of files."
+          }
+        ]
+      },
+      {
+        "question": "7",
+        "subquestions": [
+          {
+            "id": "7(e)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Security risks and precautions",
+            "description": "Describe the roles of public and private keys in the secure transmission of data via encryption."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,550 @@
+{
+  "N5_2022": {
+    "schema_version": "1.0",
+    "paper_id": "X816/75/01",
+    "paper_name": "N5 Computing Science 2022 MODIFIED",
+    "file": "X8167501.pdf",
+    "course_spec_file": "National5ComputingScienceCourseSpec.pdf",
+    "question_map": [
+      {
+        "question": "1",
+        "subquestions": [
+          {
+            "id": "1",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Convert a decimal integer into an 8-bit binary representation."
+          }
+        ]
+      },
+      {
+        "question": "5",
+        "subquestions": [
+          {
+            "id": "5",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Identify the mantissa and exponent from a value in floating-point representation."
+          }
+        ]
+      },
+      {
+        "question": "7",
+        "subquestions": [
+          {
+            "id": "7",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Identify a graphical object and a modifiable attribute within a vector graphics design."
+          }
+        ]
+      },
+      {
+        "question": "8",
+        "subquestions": [
+          {
+            "id": "8(d)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Security precautions",
+            "description": "Identify a method for transferring information securely over a network."
+          }
+        ]
+      },
+      {
+        "question": "9",
+        "subquestions": [
+          {
+            "id": "9(c)(iii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Calculate the storage requirements for a string using extended ASCII code."
+          },
+          {
+            "id": "9(d)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "Identify the type of translator used to run an executable program without further software."
+          }
+        ]
+      },
+      {
+        "question": "10",
+        "subquestions": [
+          {
+            "id": "10(b)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "Identify the processor component responsible for performing calculations."
+          },
+          {
+            "id": "10(b)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "Identify the processor component used for temporary data storage."
+          },
+          {
+            "id": "10(d)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Describe how image data is stored in a bit-mapped graphic format."
+          },
+          {
+            "id": "10(d)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Environmental impact",
+            "description": "Describe a method to reduce the energy consumption of a portable computing device."
+          }
+        ]
+      }
+    ]
+  },
+  "N5_2023": {
+    "schema_version": "1.0",
+    "paper_id": "X816/75/01",
+    "paper_name": "Computing Science National 5 2023 MODIFIED",
+    "file": "2023_Modified_QP_X816-75-01.pdf",
+    "course_spec_file": "Course_Specification_Computing_Science.pdf",
+    "question_map": [
+      {
+        "question": "1",
+        "subquestions": [
+          {
+            "id": "1(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "State two attributes used in the vector graphic representation of a polygon."
+          },
+          {
+            "id": "1(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Identify an object type used in a provided vector graphic logo."
+          }
+        ]
+      },
+      {
+        "question": "2",
+        "subquestions": [
+          {
+            "id": "2",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Security precautions",
+            "description": "Describe the use of encryption to protect the contents of an email."
+          }
+        ]
+      },
+      {
+        "question": "3",
+        "subquestions": [
+          {
+            "id": "3",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Environmental impact",
+            "description": "Describe two methods used to reduce the energy consumption of computer systems in a school department."
+          }
+        ]
+      },
+      {
+        "question": "6",
+        "subquestions": [
+          {
+            "id": "6(a)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Calculate the number of bits required to store a text string using extended ASCII code."
+          },
+          {
+            "id": "6(a)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "Identify the part of the processor used for the temporary storage of data."
+          }
+        ]
+      },
+      {
+        "question": "7",
+        "subquestions": [
+          {
+            "id": "7(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "Identify the processor component responsible for performing comparisons between data values."
+          }
+        ]
+      },
+      {
+        "question": "8",
+        "subquestions": [
+          {
+            "id": "8(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Convert a positive denary integer into its 8-bit binary representation."
+          }
+        ]
+      },
+      {
+        "question": "9",
+        "subquestions": [
+          {
+            "id": "9(e)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Describe how bit-mapped graphics are represented in a computer system's memory."
+          }
+        ]
+      },
+      {
+        "question": "10",
+        "subquestions": [
+          {
+            "id": "10(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Identify the mantissa and exponent in a floating-point representation of a real number."
+          }
+        ]
+      },
+      {
+        "question": "11",
+        "subquestions": [
+          {
+            "id": "11(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "Compare the effects of using a compiler versus an interpreter for translating code loops."
+          }
+        ]
+      }
+    ]
+  },
+  "N5_2024": {
+    "schema_version": "1.0",
+    "paper_id": "X816/75/01",
+    "paper_name": "National Qualifications 2024 Computing Science",
+    "file": "2024_N5_ComputingScience_QP.pdf",
+    "course_spec_file": "National5ComputingScienceCourseSpecification.pdf",
+    "question_map": [
+      {
+        "question": "2",
+        "subquestions": [
+          {
+            "id": "2",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Convert a positive denary integer into its 8-bit binary representation."
+          }
+        ]
+      },
+      {
+        "question": "6",
+        "subquestions": [
+          {
+            "id": "6(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Identify the mantissa and exponent components within a floating-point representation."
+          },
+          {
+            "id": "6(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Environmental impact",
+            "description": "Describe methods to reduce the energy consumption of a portable computing device."
+          }
+        ]
+      },
+      {
+        "question": "8",
+        "subquestions": [
+          {
+            "id": "8",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Calculate the number of characters that can be stored using a specific number of bits in extended ASCII."
+          }
+        ]
+      },
+      {
+        "question": "9",
+        "subquestions": [
+          {
+            "id": "9(c)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Security precautions",
+            "description": "State a method for the secure transfer of sensitive data over a network."
+          },
+          {
+            "id": "9(e)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Describe how bit-mapped graphics are represented in a computer's memory using pixels."
+          }
+        ]
+      },
+      {
+        "question": "10",
+        "subquestions": [
+          {
+            "id": "10(d)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Identify specific objects and their attributes within a vector graphics representation."
+          },
+          {
+            "id": "10(e)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "Identify the specific components of a processor responsible for calculations and control."
+          }
+        ]
+      },
+      {
+        "question": "11",
+        "subquestions": [
+          {
+            "id": "11(d)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "Identify the type of translator used to convert high-level code during execution."
+          }
+        ]
+      }
+    ]
+  },
+  "N5_2025": {
+    "schema_version": "1.0",
+    "paper_id": "X816/75/01",
+    "paper_name": "National Qualifications 2025 Computing Science",
+    "file": "X8167501.pdf",
+    "course_spec_file": "National-5-Computing-Science-Course-Specification.pdf",
+    "question_map": [
+      {
+        "question": "1",
+        "subquestions": [
+          {
+            "id": "1(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Convert a denary integer into an 8-bit binary representation."
+          },
+          {
+            "id": "1(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Calculate the storage requirements in bits for a given text string using extended ASCII code."
+          }
+        ]
+      },
+      {
+        "question": "4",
+        "subquestions": [
+          {
+            "id": "4",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Identify the mantissa and exponent components of a number stored in floating-point representation."
+          }
+        ]
+      },
+      {
+        "question": "5",
+        "subquestions": [
+          {
+            "id": "5",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "State the graphic representation used to store a photograph as an array of pixels."
+          }
+        ]
+      },
+      {
+        "question": "9",
+        "subquestions": [
+          {
+            "id": "9(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Identify a common vector object and one of its associated attributes."
+          },
+          {
+            "id": "9(c)(i)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "State the part of the processor used to perform calculations."
+          },
+          {
+            "id": "9(c)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "State the part of the processor used for the temporary storage of values during calculations."
+          },
+          {
+            "id": "9(d)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Computer systems",
+            "course_subsection": "Environmental impact",
+            "description": "Describe the benefit of using standby mode to reduce the energy consumption of computer systems."
+          }
+        ]
+      },
+      {
+        "question": "11",
+        "subquestions": [
+          {
+            "id": "11(d)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "Identify the type of translator used based on program execution requirements."
+          },
+          {
+            "id": "11(f)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Computer systems",
+            "course_subsection": "Security precautions",
+            "description": "State a method used to ensure that intercepted electronic communications cannot be read by others."
+          }
+        ]
+      }
+    ]
+  },
+  "N5_specimen": {
+    "schema_version": "1.0",
+    "paper_id": "S816/75/01",
+    "paper_name": "National Qualifications SPECIMEN ONLY Computing Science N5",
+    "file": "S816_75_01.pdf",
+    "course_spec_file": "National5ComputingScienceCourseSpecification.pdf",
+    "question_map": [
+      {
+        "question": "3",
+        "subquestions": [
+          {
+            "id": "3",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Convert an 8-bit positive binary number into its denary equivalent."
+          }
+        ]
+      },
+      {
+        "question": "6",
+        "subquestions": [
+          {
+            "id": "6",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Computer systems",
+            "course_subsection": "Security precautions",
+            "description": "Explain the purpose of using encryption when transmitting data across wireless networks."
+          }
+        ]
+      },
+      {
+        "question": "8",
+        "subquestions": [
+          {
+            "id": "8",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Computer systems",
+            "course_subsection": "Environmental impact",
+            "description": "Describe a method used to reduce the environmental impact of computing systems."
+          }
+        ]
+      },
+      {
+        "question": "9",
+        "subquestions": [
+          {
+            "id": "9(a)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Identify a standard vector graphics object used to represent an element in a drawing."
+          },
+          {
+            "id": "9(b)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Identify an attribute of a line object used within a vector graphics package."
+          }
+        ]
+      },
+      {
+        "question": "11",
+        "subquestions": [
+          {
+            "id": "11(b)(ii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "Identify the hardware component where program data is stored during execution."
+          },
+          {
+            "id": "11(b)(iii)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Computer systems",
+            "course_subsection": "Computer structure",
+            "description": "State the component of the processor responsible for performing logical comparisons."
+          },
+          {
+            "id": "11(d)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Calculate the total number of bits required to store a specific string using extended ASCII."
+          }
+        ]
+      },
+      {
+        "question": "12",
+        "subquestions": [
+          {
+            "id": "12(d)",
+            "exam_section": "SECTION 1 — SOFTWARE DESIGN AND DEVELOPMENT, AND COMPUTER SYSTEMS — 55 marks",
+            "course_section": "Computer systems",
+            "course_subsection": "Data representation",
+            "description": "Describe how a bit-mapped graphic is represented in computer memory."
+          }
+        ]
+      }
+    ]
+  }
+}

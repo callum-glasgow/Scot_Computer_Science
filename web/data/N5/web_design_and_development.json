@@ -1,0 +1,652 @@
+{
+  "N5_2022": {
+    "schema_version": "1.0",
+    "paper_id": "X816/75/01",
+    "paper_name": "N5 Computing Science 2022 MODIFIED",
+    "file": "X8167501.pdf",
+    "course_spec_file": "National5ComputingScienceCourseSpec.pdf",
+    "question_map": [
+      {
+        "question": "15",
+        "subquestions": [
+          {
+            "id": "15",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Identify a CSS property and a class selector from provided external stylesheet code."
+          }
+        ]
+      },
+      {
+        "question": "16",
+        "subquestions": [
+          {
+            "id": "16",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Identify the type of hyperlink used to link to an external domain."
+          }
+        ]
+      },
+      {
+        "question": "17",
+        "subquestions": [
+          {
+            "id": "17",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Testing",
+            "description": "Evaluate if a wireframe design meets the stated functional requirements for a website."
+          }
+        ]
+      },
+      {
+        "question": "18",
+        "subquestions": [
+          {
+            "id": "18(a)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Identify a low-fidelity prototyping design technique for user interface planning."
+          },
+          {
+            "id": "18(a)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Explain the purpose of using low-fidelity prototypes during the design stage."
+          },
+          {
+            "id": "18(b)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Determine the visual formatting of an HTML element based on applied CSS rules."
+          },
+          {
+            "id": "18(b)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Implement a single CSS style rule to format text alignment and font family."
+          },
+          {
+            "id": "18(c)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Implement an HTML image tag using a relative file path based on a folder structure."
+          },
+          {
+            "id": "18(d)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Identify a suitable bit-mapped file format based on colour depth and transparency requirements."
+          },
+          {
+            "id": "18(d)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Identify a factor other than colour depth that affects the file size of an image."
+          }
+        ]
+      },
+      {
+        "question": "19",
+        "subquestions": [
+          {
+            "id": "19(a)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Draw the browser representation of a web page based on provided HTML and CSS code."
+          },
+          {
+            "id": "19(a)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Implement an HTML list item that utilizes a specific CSS class selector."
+          },
+          {
+            "id": "19(b)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Identify the purpose of an HTML anchor tag and its href attribute."
+          },
+          {
+            "id": "19(c)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (JavaScript)",
+            "description": "Identify the scripting language used to implement mouse events like onmouseover."
+          },
+          {
+            "id": "19(d)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Identify the relevant law governing the use of digital assets like videos on a website."
+          },
+          {
+            "id": "19(e)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Analysis",
+            "description": "Identify end-user requirements based on qualitative customer feedback."
+          }
+        ]
+      }
+    ]
+  },
+  "N5_2023": {
+    "schema_version": "1.0",
+    "paper_id": "X816/75/01",
+    "paper_name": "Computing Science National 5 2023 MODIFIED",
+    "file": "2023_Modified_QP_X816-75-01.pdf",
+    "course_spec_file": "Course_Specification_Computing_Science.pdf",
+    "question_map": [
+      {
+        "question": "16",
+        "subquestions": [
+          {
+            "id": "16(a)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Evaluation",
+            "description": "Identify two reasons why a web page design is not fit for purpose."
+          },
+          {
+            "id": "16(b)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Describe the purpose and function of an internal hyperlink within a website."
+          }
+        ]
+      },
+      {
+        "question": "17",
+        "subquestions": [
+          {
+            "id": "17(a)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Identify a standard bit-mapped graphic file format suitable for animated images."
+          },
+          {
+            "id": "17(b)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Explain how the Copyright, Designs and Patents Act protects the rights of digital content creators."
+          }
+        ]
+      },
+      {
+        "question": "18",
+        "subquestions": [
+          {
+            "id": "18",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Describe one benefit of using an external CSS file to style a website."
+          }
+        ]
+      },
+      {
+        "question": "19",
+        "subquestions": [
+          {
+            "id": "19(a)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Analysis",
+            "description": "Identify a functional requirement for a website based on a provided content description."
+          },
+          {
+            "id": "19(b)(i)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Complete HTML code to implement an audio element using a relative file path."
+          },
+          {
+            "id": "19(b)(ii)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Explain how audio file size can be reduced without changing the duration of the sound."
+          },
+          {
+            "id": "19(c)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (JavaScript)",
+            "description": "Identify the scripting language and specific event used to implement an image rollover effect."
+          },
+          {
+            "id": "19(d)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Draw the expected browser display of a web page based on provided HTML code and CSS rules."
+          }
+        ]
+      },
+      {
+        "question": "20",
+        "subquestions": [
+          {
+            "id": "20(a)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Explain the respective roles of wireframes and low-fidelity prototypes in website design."
+          },
+          {
+            "id": "20(b)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Draw the navigational structure for a website based on the analysis of four interconnected web pages."
+          },
+          {
+            "id": "20(c)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Create an external CSS class and apply it to a specific HTML heading element."
+          }
+        ]
+      }
+    ]
+  },
+  "N5_2024": {
+    "schema_version": "1.0",
+    "paper_id": "X816/75/01",
+    "paper_name": "National Qualifications 2024 Computing Science",
+    "file": "2024_N5_ComputingScience_QP.pdf",
+    "course_spec_file": "National5ComputingScienceCourseSpecification.pdf",
+    "question_map": [
+      {
+        "question": "17",
+        "subquestions": [
+          {
+            "id": "17",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Complete a diagram to show the navigational structure of a website based on prototypes."
+          }
+        ]
+      },
+      {
+        "question": "18",
+        "subquestions": [
+          {
+            "id": "18",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Complete a wireframe design for a webpage by positioning text and media elements."
+          }
+        ]
+      },
+      {
+        "question": "19",
+        "subquestions": [
+          {
+            "id": "19(a)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Compare standard file formats to identify which supports transparency for background removal."
+          },
+          {
+            "id": "19(b)(i)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Implement a single CSS rule to style specific elements using class selectors and properties."
+          },
+          {
+            "id": "19(b)(ii)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Identify the type of addressing used within a HTML hyperlink."
+          },
+          {
+            "id": "19(c)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Implement HTML code to embed a video with specific dimensions and controls."
+          },
+          {
+            "id": "19(d)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Analysis",
+            "description": "Identify a functional requirement for a website based on user feedback."
+          }
+        ]
+      },
+      {
+        "question": "20",
+        "subquestions": [
+          {
+            "id": "20(a)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Describe how specific HTML elements will be displayed based on their assigned CSS properties."
+          },
+          {
+            "id": "20(b)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Draw the browser rendering of HTML code containing lists and hyperlinks."
+          },
+          {
+            "id": "20(c)(i)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (JavaScript)",
+            "description": "Identify the client-side scripting language used to implement interactive web features."
+          },
+          {
+            "id": "20(c)(ii)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (JavaScript)",
+            "description": "Identify the type of mouse event used to trigger an interactive change on a page."
+          },
+          {
+            "id": "20(d)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "State actions required to comply with the Copyright, Designs and Patents Act when using media."
+          },
+          {
+            "id": "20(e)",
+            "exam_section": "SECTION 3 — WEBSITE DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Testing",
+            "description": "Describe a specific test that can be conducted to ensure the consistency of a website."
+          }
+        ]
+      }
+    ]
+  },
+  "N5_2025": {
+    "schema_version": "1.0",
+    "paper_id": "X816/75/01",
+    "paper_name": "National Qualifications 2025 Computing Science",
+    "file": "X8167501.pdf",
+    "course_spec_file": "National-5-Computing-Science-Course-Specification.pdf",
+    "question_map": [
+      {
+        "question": "17",
+        "subquestions": [
+          {
+            "id": "17",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (JavaScript)",
+            "description": "Identify the JavaScript mouse event required to implement a specific interactive feature on a web page."
+          }
+        ]
+      },
+      {
+        "question": "18",
+        "subquestions": [
+          {
+            "id": "18",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Explain the difference between absolute and relative addressing when implementing hyperlinks in HTML."
+          }
+        ]
+      },
+      {
+        "question": "19",
+        "subquestions": [
+          {
+            "id": "19",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Analysis",
+            "description": "Identify functional requirements for a website based on provided user feedback."
+          }
+        ]
+      },
+      {
+        "question": "20",
+        "subquestions": [
+          {
+            "id": "20(a)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "State a reason for using compressed image file formats on a website instead of bitmap."
+          },
+          {
+            "id": "20(b)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Implement HTML code for an unordered list containing an internal hyperlink."
+          },
+          {
+            "id": "20(b)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Implement HTML code required to embed an audio file into a web page."
+          }
+        ]
+      },
+      {
+        "question": "21",
+        "subquestions": [
+          {
+            "id": "21(a)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Draw the navigational structure for a website including internal and external links."
+          },
+          {
+            "id": "21(b)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Implement CSS code to style a specific element using an ID selector and text properties."
+          },
+          {
+            "id": "21(c)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Describe how to reduce the file size of an audio file while maintaining its length."
+          },
+          {
+            "id": "21(c)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Testing",
+            "description": "Describe a test that should be carried out on a website to ensure its quality."
+          },
+          {
+            "id": "21(d)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Evaluation",
+            "description": "State a reason why a specific web page layout or feature is not fit for purpose."
+          },
+          {
+            "id": "21(d)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "State the law that a website must comply with when using media elements from other suppliers."
+          },
+          {
+            "id": "21(e)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Describe the visual appearance of a web page element based on provided HTML and CSS code."
+          }
+        ]
+      }
+    ]
+  },
+  "N5_specimen": {
+    "schema_version": "1.0",
+    "paper_id": "S816/75/01",
+    "paper_name": "National Qualifications SPECIMEN ONLY Computing Science N5",
+    "file": "S816_75_01.pdf",
+    "course_spec_file": "National5ComputingScienceCourseSpecification.pdf",
+    "question_map": [
+      {
+        "question": "18",
+        "subquestions": [
+          {
+            "id": "18(a)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "State a benefit of creating a low-fidelity prototype during the web design phase."
+          },
+          {
+            "id": "18(b)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Testing",
+            "description": "Describe the benefit of maintaining consistency across a website's user interface for the end-user."
+          }
+        ]
+      },
+      {
+        "question": "19",
+        "subquestions": [
+          {
+            "id": "19",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Complete a website structure diagram to include new internal pages and external links."
+          }
+        ]
+      },
+      {
+        "question": "20",
+        "subquestions": [
+          {
+            "id": "20(a)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Select and justify a suitable graphic file format for displaying a photograph on a web page."
+          },
+          {
+            "id": "20(a)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Explain the application of copyright legislation to original media content created by organization staff."
+          },
+          {
+            "id": "20(b)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Sketch how a specific snippet of HTML code containing a hyperlink will be rendered in a browser."
+          },
+          {
+            "id": "20(c)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Testing",
+            "description": "Identify a potential technical reason for a 'Page Not Found' error occurring during website testing."
+          },
+          {
+            "id": "20(c)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Testing",
+            "description": "Describe different types of functional or visual tests that should be performed on a website."
+          }
+        ]
+      },
+      {
+        "question": "21",
+        "subquestions": [
+          {
+            "id": "21(a)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Translate HTML and CSS code into a visual wireframe representation of a home page."
+          },
+          {
+            "id": "21(b)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Write a CSS rule using a class selector to define text alignment and font size for specific elements."
+          },
+          {
+            "id": "21(b)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Identify the specific type of addressing used within a provided HTML hyperlink."
+          },
+          {
+            "id": "21(c)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (JavaScript)",
+            "description": "State the scripting language used to implement interactive mouse-driven features on a web page."
+          },
+          {
+            "id": "21(c)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (JavaScript)",
+            "description": "Identify the specific type of JavaScript mouse event used to trigger a change in web page content."
+          },
+          {
+            "id": "21(d)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "State a benefit to the end-user of using compressed file formats for media content on a website."
+          },
+          {
+            "id": "21(d)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT — 25 marks",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Compare the advantages and disadvantages of using different sampling rates for audio files."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "sections": {
+    "Computer systems": {
+      "count": 49,
+      "subsections": {
+        "Data representation": 26,
+        "Security precautions": 5,
+        "Computer structure": 13,
+        "Environmental impact": 5
+      },
+      "slug": "computer_systems"
+    },
+    "Software design and development": {
+      "count": 108,
+      "subsections": {
+        "Implementation (computational constructs)": 34,
+        "Implementation (data types and structures)": 14,
+        "Design": 15,
+        "Testing": 17,
+        "Analysis": 7,
+        "Evaluation": 9,
+        "Development methodologies": 4,
+        "Implementation (algorithm specification)": 8
+      },
+      "slug": "software_design_and_development"
+    },
+    "Database design and development": {
+      "count": 57,
+      "subsections": {
+        "Design": 27,
+        "Implementation": 23,
+        "Testing": 5,
+        "Evaluation": 1,
+        "Analysis": 1
+      },
+      "slug": "database_design_and_development"
+    },
+    "Web design and development": {
+      "count": 70,
+      "subsections": {
+        "Implementation (CSS)": 10,
+        "Implementation (HTML)": 16,
+        "Testing": 6,
+        "Design": 25,
+        "Implementation (JavaScript)": 7,
+        "Analysis": 4,
+        "Evaluation": 2
+      },
+      "slug": "web_design_and_development"
+    }
+  }
+}

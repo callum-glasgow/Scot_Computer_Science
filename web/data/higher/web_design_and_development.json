@@ -1,0 +1,636 @@
+{
+  "higher_2022": {
+    "schema_version": "1.0",
+    "paper_id": "X816/76/01",
+    "paper_name": "National Qualifications 2022 MODIFIED Computing Science",
+    "file": "2022_Computing_Science_Higher_QP.pdf",
+    "course_spec_file": "Higher_Computing_Science_Course_Specification.pdf",
+    "question_map": [
+      {
+        "question": "13",
+        "subquestions": [
+          {
+            "id": "13",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Identify and state the appropriate HTML5 semantic elements for page layout."
+          }
+        ]
+      },
+      {
+        "question": "14",
+        "subquestions": [
+          {
+            "id": "14",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Create a wireframe design for a web form including various inputs and validation."
+          }
+        ]
+      },
+      {
+        "question": "15",
+        "subquestions": [
+          {
+            "id": "15(a)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Evaluate a website's navigational structure against user requirements."
+          },
+          {
+            "id": "15(b)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Testing",
+            "description": "Identify usability issues from a low-fidelity prototype wireframe."
+          },
+          {
+            "id": "15(c)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Implement CSS rules using grouping selectors and padding properties."
+          },
+          {
+            "id": "15(d)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Describe the visual effects of specified CSS rules on page elements."
+          },
+          {
+            "id": "15(e)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Testing",
+            "description": "Identify compatibility tests appropriate for media-rich web pages."
+          }
+        ]
+      },
+      {
+        "question": "16",
+        "subquestions": [
+          {
+            "id": "16(a)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Implement CSS spacing properties to match a provided visual design."
+          },
+          {
+            "id": "16(b)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Complete a CSS rule to implement interactive hover effects for navigation."
+          },
+          {
+            "id": "16(c)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Explain the purpose and effect of the CSS display inline property."
+          },
+          {
+            "id": "16(d)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (JavaScript)",
+            "description": "Write code to call a JavaScript function using a mouse click event."
+          },
+          {
+            "id": "16(d)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Testing",
+            "description": "Explain logic errors preventing JavaScript functions from correctly manipulating page content."
+          },
+          {
+            "id": "16(e)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Implement HTML form attributes to enforce required data entry."
+          }
+        ]
+      }
+    ]
+  },
+  "higher_2023": {
+    "schema_version": "1.0",
+    "paper_id": "X816/76/01",
+    "paper_name": "National Qualifications 2023 MODIFIED Computing Science",
+    "file": "X8167601.pdf",
+    "course_spec_file": "HigherComputingScienceCourseSpec.pdf",
+    "question_map": [
+      {
+        "question": "16",
+        "subquestions": [
+          {
+            "id": "16",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Evaluation",
+            "description": "Identify reasons why combined JavaScript, CSS, and HTML code is not fit for purpose."
+          }
+        ]
+      },
+      {
+        "question": "17",
+        "subquestions": [
+          {
+            "id": "17(a)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Analysis",
+            "description": "State a functional requirement for a web application based on a project brief."
+          },
+          {
+            "id": "17(b)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Draw the navigational structure for a multi-level website."
+          }
+        ]
+      },
+      {
+        "question": "18",
+        "subquestions": [
+          {
+            "id": "18(a)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Write a CSS rule using grouped selectors to apply consistent margins."
+          },
+          {
+            "id": "18(b)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Complete a CSS rule to control the layout and positioning of media elements."
+          },
+          {
+            "id": "18(c)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Write a CSS rule to initially hide a specific HTML element."
+          },
+          {
+            "id": "18(c)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (JavaScript)",
+            "description": "Complete JavaScript code to dynamically modify the display property of a page element."
+          },
+          {
+            "id": "18(c)(iii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Write HTML code to trigger a JavaScript function using a mouse event."
+          },
+          {
+            "id": "18(d)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Write HTML code to implement a text input form element."
+          },
+          {
+            "id": "18(d)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Write HTML code to implement a textarea form element for extended user input."
+          }
+        ]
+      },
+      {
+        "question": "19",
+        "subquestions": [
+          {
+            "id": "19(a)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Create a wireframe design for a web page based on user requirements."
+          },
+          {
+            "id": "19(b)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Testing",
+            "description": "Explain logic errors that prevent a navigation bar from displaying as intended."
+          },
+          {
+            "id": "19(b)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Explain the difference between CSS rules using descendant selectors versus general selectors."
+          },
+          {
+            "id": "19(c)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Testing",
+            "description": "Describe factors in compatibility testing that cause different user experiences across platforms."
+          }
+        ]
+      }
+    ]
+  },
+  "higher_2024": {
+    "schema_version": "1.0",
+    "paper_id": "X816/76/01",
+    "paper_name": "National Qualifications 2024 Computing Science",
+    "file": "2024_Computing_Science_Higher.pdf",
+    "course_spec_file": "Higher_Computing_Science_Course_Specification.pdf",
+    "question_map": [
+      {
+        "question": "15",
+        "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+        "subquestions": [
+          {
+            "id": "15",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Rewrite CSS code using grouping selectors to improve code efficiency and reduce redundancy."
+          }
+        ]
+      },
+      {
+        "question": "16",
+        "subquestions": [
+          {
+            "id": "16(a)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Testing",
+            "description": "Describe the use of personas as a tool for conducting usability testing."
+          },
+          {
+            "id": "16(b)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Testing",
+            "description": "Describe two user scenarios that can be used to perform usability testing on a web form."
+          }
+        ]
+      },
+      {
+        "question": "17",
+        "subquestions": [
+          {
+            "id": "17(a)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Identify discrepancies between a site's navigational structure and a implemented web page."
+          },
+          {
+            "id": "17(a)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Complete CSS code to style a horizontal navigation bar including list formatting and hover effects."
+          },
+          {
+            "id": "17(b)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Identify and correct an error in HTML code related to image or structural elements."
+          },
+          {
+            "id": "17(b)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (JavaScript)",
+            "description": "Complete JavaScript code to implement an event-driven function that alters the display style of a page element."
+          }
+        ]
+      },
+      {
+        "question": "18",
+        "subquestions": [
+          {
+            "id": "18(a)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Write CSS code to implement side-by-side positioning of page sections using float and dimension properties."
+          },
+          {
+            "id": "18(b)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Draw a wireframe for a web form including specific inputs for user data collection."
+          },
+          {
+            "id": "18(b)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Identify HTML attributes required to implement presence and length validation on a text input."
+          },
+          {
+            "id": "18(c)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Identify a descendant selector in a CSS rule and explain its styling effect."
+          },
+          {
+            "id": "18(d)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Testing",
+            "description": "Describe two compatibility tests appropriate for a web page containing multimedia content."
+          }
+        ]
+      }
+    ]
+  },
+  "higher_2025": {
+    "schema_version": "1.0",
+    "paper_id": "X816/76/01",
+    "paper_name": "National Qualifications 2025 Higher Computing Science",
+    "file": "X816_76_01.pdf",
+    "course_spec_file": "HigherCourseSpecComputingScience.pdf",
+    "question_map": [
+      {
+        "question": "14",
+        "subquestions": [
+          {
+            "id": "14(a)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Testing",
+            "description": "Describe the purpose of personas within the context of usability testing for a website."
+          },
+          {
+            "id": "14(b)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Testing",
+            "description": "Identify issues that should be evaluated during usability testing of a web-based form."
+          }
+        ]
+      },
+      {
+        "question": "15",
+        "subquestions": [
+          {
+            "id": "15",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Describe required CSS rule changes to ensure a navigation bar hover effect functions correctly."
+          }
+        ]
+      },
+      {
+        "question": "16",
+        "subquestions": [
+          {
+            "id": "16",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Complete a CSS rule to implement precise spacing around an element using properties like padding or margin."
+          }
+        ]
+      },
+      {
+        "question": "17",
+        "subquestions": [
+          {
+            "id": "17(a)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Create a wireframe design for a web page based on a list of required user inputs."
+          },
+          {
+            "id": "17(b)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Identify the type of CSS selector used in a specific styling rule."
+          },
+          {
+            "id": "17(b)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Describe the visual effect applied to HTML elements by a specific CSS rule."
+          },
+          {
+            "id": "17(c)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (JavaScript)",
+            "description": "Complete JavaScript code to dynamically toggle the visibility of a page element."
+          },
+          {
+            "id": "17(c)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (JavaScript)",
+            "description": "Write HTML and JavaScript event handler code to call a function when an element is clicked."
+          }
+        ]
+      },
+      {
+        "question": "18",
+        "subquestions": [
+          {
+            "id": "18(a)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Draw the navigational structure of a website showing hierarchy and clear links between pages."
+          },
+          {
+            "id": "18(b)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Implement HTML code to perform form data validation, including range checks."
+          },
+          {
+            "id": "18(c)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Apply a CSS property to correct an element's layout and clear floating elements."
+          },
+          {
+            "id": "18(c)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Complete a CSS rule to specify the font family for multiple page sections."
+          },
+          {
+            "id": "18(d)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Evaluation",
+            "description": "Explain why specific CSS layout code fails to display a grid correctly in a browser."
+          },
+          {
+            "id": "18(d)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Testing",
+            "description": "Describe compatibility issues that occur when viewing web layouts on a smartphone browser."
+          },
+          {
+            "id": "18(e)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Explain the difference between block and inline HTML elements with respect to layout and line breaks."
+          }
+        ]
+      }
+    ]
+  },
+  "higher_specimen": {
+    "schema_version": "1.0",
+    "paper_id": "S816/76/01",
+    "paper_name": "Higher Computing Science Specimen Question Paper",
+    "file": "S816_76_01.pdf",
+    "course_spec_file": "HigherComputingScienceCourseSpec.pdf",
+    "question_map": [
+      {
+        "question": "13",
+        "subquestions": [
+          {
+            "id": "13(a)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (JavaScript)",
+            "description": "Implement a JavaScript function to dynamically change the style property of an HTML element."
+          },
+          {
+            "id": "13(b)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (JavaScript)",
+            "description": "Apply a JavaScript function call to an HTML element using an appropriate mouse event attribute."
+          }
+        ]
+      },
+      {
+        "question": "14",
+        "subquestions": [
+          {
+            "id": "14",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Refactor CSS code using grouping selectors to improve efficiency and reduce repetition."
+          }
+        ]
+      },
+      {
+        "question": "15",
+        "subquestions": [
+          {
+            "id": "15(a)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Identify the missing essential form element required for data submission."
+          },
+          {
+            "id": "15(a)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Write the HTML code required to implement a submit button in a web form."
+          },
+          {
+            "id": "15(b)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Identify the HTML attribute used to set a default selection in a radio button group."
+          },
+          {
+            "id": "15(b)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (HTML)",
+            "description": "Rewrite HTML code to enable multiple selections within a select element."
+          },
+          {
+            "id": "15(c)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Testing",
+            "description": "Describe a suitable persona and explain its role in conducting usability testing."
+          },
+          {
+            "id": "15(d)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Explain the effect of changing an element's display property from block to inline."
+          }
+        ]
+      },
+      {
+        "question": "16",
+        "subquestions": [
+          {
+            "id": "16(a)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Complete a CSS rule to set specific margin or padding values for an image."
+          },
+          {
+            "id": "16(b)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Draw a wireframe for a web form including labels, inputs, and validation indicators."
+          },
+          {
+            "id": "16(c)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Design",
+            "description": "Describe benefits of using low-fidelity prototypes for developers and clients."
+          },
+          {
+            "id": "16(d)(i)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Write a CSS rule to remove default list styling from a navigation element."
+          },
+          {
+            "id": "16(d)(ii)",
+            "exam_section": "SECTION 3 — WEB DESIGN AND DEVELOPMENT",
+            "course_section": "Web design and development",
+            "course_subsection": "Implementation (CSS)",
+            "description": "Explain how descendant selectors are used to target specific elements within a navigation bar."
+          }
+        ]
+      }
+    ]
+  }
+}
